@@ -13,6 +13,7 @@ The following tasks are to be performed for each app separately, except for 6, 7
 -negative sentiment: compound score <= -0.05
 
 4.Consider making two plots, one for ratings and another for sentiments over time. Use the date about new versions and new releases. Scatter these dates across each plot so you can observe the effect of the new version on the sentiment or rating.
+(plot_rating.py)
 
 5.We want to find the most discussed topics from users, and for that, perform LDA topic modeling and try to generate 10 topics. 
 
