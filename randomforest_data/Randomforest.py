@@ -21,8 +21,8 @@ class Logger(object):
 sys.stdout = Logger('result.txt')
 
 # Merge two Dataframes
-df1 = pd.read_csv('randomforest_data/parkmano.csv',sep = ';')
-df2 = pd.read_csv('randomforest_data/easyparko.csv',sep = ';')
+df1 = pd.read_csv('parkmano.csv',sep = ';')
+df2 = pd.read_csv('easyparko.csv',sep = ';')
 df = pd.concat([df1,df2],axis=0,ignore_index=True)
 
 def ngram_randomforest(Dataframename,Ngram_number,Ngram_feature_size,estimators,test_size,topimportance_element_number):
