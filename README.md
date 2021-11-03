@@ -65,69 +65,6 @@ For this task:
 
 
 
-How To Run ? 
-
-1 For Scrapping :
-1.1 Libraries Needed 
--app_store_scraper 
--google_play_scraper 
--pandas
--numpy 
--json
--datetime
--dateutil
-1.2 For Parkman:
--Just run normally, the code will scrap reviews from finland and denmark, in english, Finnish, and danish
--Just make sure there is an csv file in the same directory named parkman.csv with the correct header
-
-1.3 For EasyPark:
--Because we scrapped from all over europe and we did not want to write long useless repetettive code, we kept changing in the parameters the
-countries and the languages
--so for android part change the language from  en,fi,fr,es,no depending on the country but use english one time to not duplicate the data, and change the countries from fi,fr,es,no
--and for ios part change the country from fi,no,dk,se,fr,es,de
--Keep running again and again until getting the desired amount of data
-
-2 For Translating:
-
-2.1 Libraries needed
-
--datetime
--sys
--deep_translator 
--pandas
-
-2.2 Running
-
--Running normally, just change the name of the file each time you want to translate, and make sure it is on the same directory of the python file
-
-
-3 For First Impression Analysis  
-
-3.1 Libraries needed 
- 
--pandas
--dateutil 
--matplotlib
--nltk
--collections 
--string
-
-3.2 For running
-
--Running is normal, just make sure there is two csv files named parkman_trans and easypark_trans that contain all the reviews in english
--it should be in the same folder
-
-
-4 For Keyword expansion
-
-4.1 Libraries needed
-
--nltk
--pandas
-
-4.2 For running
-
--Running is normal, just make sure there is a csv file named indicators that we extracted from questionnaires in the same directory as the python file 
 
 5 For plot task
 
