@@ -1,7 +1,4 @@
 # Analysis-of-Reviews-from-Mobile-Parking-Apps
-In this project, the students will collect Thousands of online reviews from Apple and Google Play stores from across Europe or at least Nordic area, to understand how users react to the two parking apps that run in the Nordic region - EasyPark and ParkMan. This project will provide insight into user behavior, sentiment toward parking apps and highlight the most important topics regarding users' requests, demands and preferences in terms of parking solutions or technology features.  
-
-
 1.Write a script to download data for the two apps and save them in CSV files separately. Data collection involves getting user IDs, reviews, reviews’ ratings, reviews’ dates, and version history of the apps from Google play and Apple store. Additionally, you can collect other information if you wish. 
 
 2.Ensure that all reviews are translated into English, clean the data, and process it. Concatenate the data from both stores but keep the two apps' data separate in two data-frames for further analysis. At the end you would have two datasets, one for EasyPark and another for ParkMan. 
