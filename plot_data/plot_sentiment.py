@@ -77,6 +77,6 @@ def plot_sentiment(csv_filename,version_label_model):
 
     plt.show()
 
-plot_sentiment('polt_data/parkman.csv',1)
-plot_sentiment('polt_data/easypark.csv',1)
+plot_sentiment('parkman.csv',1)
+plot_sentiment('easypark.csv',1)
 
