@@ -65,19 +65,3 @@ For this task:
 
 
 
-
-5 For plot task
-
--pandas
--matplotlib
-
-6 For Random forest
-
--sklearn
--nltk
--numpy
-
-7 For indicator classify
-
--pandas
--nltk
