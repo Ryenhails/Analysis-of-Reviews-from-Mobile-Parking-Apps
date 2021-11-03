@@ -2,6 +2,7 @@
 
 #There are detailed descriptions of each task and the corresponding code/data folders#
 
+#All tasks have been done#
 
 1.Write a script to download data for the two apps and save them in CSV files separately. Data collection involves getting user IDs, reviews, reviews’ ratings, reviews’ dates, and version history of the apps from Google play and Apple store. Additionally, you can collect other information if you wish. 
 
