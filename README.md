@@ -42,6 +42,7 @@ For this task:
 Try to learn more about TAM from this review paper [1]. We are interested in understanding how the indicators: perceived ease of use, perceived usefulness, satisfaction, attitude, and behavioral intentions change over time. You can check this paper [2] as well for more information about some of the TAM indicators.
 
 7.2Examine the items of surveys and questionnaires found in the following related papers [3][4][5][6][7]; additionally, you may look for more relevant papers and surveys in Google Scholar. Then generate keyword lists for each indicator based on the elements of surveys and questionnaires. For instance: some keywords for satisfaction are {Satisfied, fulfill, gratify, meet, beneficial, content, happy, appeasement ……. etc.}.
+
 7.3To augment the list of keywords, write a script that finds synonyms, hypernyms, and hyponyms for each word, by using WordNet database. Review the words manually and remove those which are not relevant.
 
 For this task:
