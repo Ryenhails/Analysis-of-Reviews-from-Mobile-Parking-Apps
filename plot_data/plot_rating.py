@@ -76,7 +76,7 @@ def plot_rating(csv_filename,version_label_model):
                     print(row['reviewVersion'])
     plt.show()
 
-plot_rating('polt_data/parkman.csv',1)
-plot_rating('polt_data/easypark.csv',1)
+plot_rating('parkman.csv',1)
+plot_rating('easypark.csv',1)
 
 
