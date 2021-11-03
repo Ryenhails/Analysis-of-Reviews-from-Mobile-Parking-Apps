@@ -6,6 +6,10 @@ This folder have
 
 -Randomforest.py for implement the ploting task
 
+-result.txt for the Machine learning model evaluation result(Note: each running which rewrite the result.txt)
+
+This result.txt is as same as the result posted on the report
+
 How to run
 
 Requied library
