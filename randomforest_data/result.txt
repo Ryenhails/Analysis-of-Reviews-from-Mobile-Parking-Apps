@@ -1,0 +1,4318 @@
+top 10 n-gram elements£º
+
+['able use', 'absolutely brilliant', 'absolutely great', 'active parking', 'actual parking', 'actual parking time', 'add time', 'addition parking', 'always worked', 'always works']
+
+====================evaluate==================
+
+1¡¢metrics£º
+
+[[ 289  247]
+ [ 189 1231]]
+
+2¡¢precision recall f1-score£º
+
+              precision    recall  f1-score   support
+
+    negative       0.60      0.54      0.57       536
+    positive       0.83      0.87      0.85      1420
+
+    accuracy                           0.78      1956
+   macro avg       0.72      0.70      0.71      1956
+weighted avg       0.77      0.78      0.77      1956
+
+
+3¡¢oob_score£º
+
+0.7778995834246876
+
+====================n-gram evaluate==================
+
+receive free 1.4130411160917523e-07 positive
+receive free parking 8.996814393809596e-07 positive
+free parking euros 1.2897624896949366e-06 positive
+great app easy 1.3371674861961007e-06 positive
+application code 1.66293446133922e-06 positive
+code get free 2.1091425847507204e-06 positive
+well easy use 4.521021544796255e-06 positive
+app free parking 6.1835855374235e-06 positive
+code c 9.05366904425778e-06 positive
+code p 9.704841040278713e-06 positive
+great app code 1.0998700134834325e-05 positive
+easy use easy 1.2661378323036858e-05 positive
+get first parking 1.301281458573835e-05 positive
+use promotional code 1.3601826373792828e-05 positive
+good app code 1.534279949032597e-05 positive
+use promotional 1.5474723877418295e-05 positive
+code k 1.580863217577024e-05 positive
+use works 2.736075814780138e-05 positive
+easy use works 2.848810228419122e-05 positive
+code r 3.2211771612341825e-05 positive
+e parking money 3.519664872226248e-05 positive
+saves time 3.9581010408078946e-05 positive
+parking e 4.151685998238559e-05 positive
+euros free parking 4.2414061032271045e-05 positive
+euros free 4.850803548286299e-05 positive
+get euros free 4.966662306170208e-05 positive
+really easy use 5.182301165799549e-05 positive
+app code 6.208742748117496e-05 positive
+e parking 6.853976757557107e-05 positive
+code q 7.06169769461284e-05 positive
+really good app 8.286893398622196e-05 positive
+makes life easier 8.891761866990262e-05 positive
+promo code 9.137811877906714e-05 positive
+easy use good 9.637372963041419e-05 positive
+parking much easier 9.734188382591088e-05 positive
+good easy use 9.878950151504545e-05 positive
+discount code 0.00010147169713824407 positive
+application easy 0.00011453376186706864 positive
+great easy 0.00011596909834557652 positive
+super easy use 0.00012567482200578662 positive
+good code 0.0001311861826024142 positive
+get e free 0.00013603342779476348 positive
+use pay 0.00014487044355701673 positive
+car app 0.0001488134326219813 positive
+apple watch 0.000150262082877323 positive
+well easy 0.00015834832179238627 positive
+code free 0.00017412850077312233 positive
+works easy 0.00017950386492221566 positive
+really handy 0.00019412485158612074 positive
+parking time code 0.00019421174003732064 positive
+clear easy 0.00019927573428376935 positive
+another free 0.00020012497710766166 positive
+get e 0.00020051809606920715 positive
+convenient application 0.00020813903081987387 positive
+code e 0.00020963744699121573 positive
+code free parking 0.00022001941965465782 positive
+use good 0.00022527032238788341 positive
+convenient app 0.0002394484602691409 positive
+time code 0.0002515513378545578 positive
+parking money code 0.0002558830797024235 positive
+actual parking time 0.0002645804613519017 positive
+get euros 0.0002685765576224221 positive
+app easy use 0.00026882947844445186 positive
+get first 0.0002723637102200748 positive
+enter code 0.00027361711390383534 positive
+free parking code 0.0002856605271614776 positive
+time need 0.00029228225411867076 positive
+easy use app 0.000298250803076745 positive
+app ever 0.000299985317098435 positive
+phone parking 0.0003042426565479689 positive
+code parking 0.00030986317231395245 positive
+money code 0.00031629636623630575 positive
+coins car 0.0003415522979576074 positive
+time easy 0.00034952605947716285 positive
+increase parking time 0.0003506679115675869 positive
+parking car 0.00035275385743032816 positive
+easy extend 0.00036653334990625447 positive
+spinning wheel 0.000370367428709 positive
+absolutely great 0.00037419474617490686 positive
+parking attendant 0.000374798822233377 positive
+well functioning 0.00037525539765784476 positive
+next parking 0.00037706108712330503 positive
+app free 0.00038050201999561607 positive
+increase parking 0.000380544143742775 positive
+enter parking 0.0003933400535127579 positive
+parking euros 0.0004062037924257649 positive
+parkman app 0.0004098757388888059 positive
+super happy 0.00041324627976516544 positive
+saves money 0.00043120471086294866 positive
+easy pay 0.0004367468222150305 positive
+e free parking 0.00045120709661845035 positive
+money parking 0.0004545747593229584 positive
+good thing 0.00046181171550341857 positive
+app works well 0.00046338588404947097 positive
+parking times 0.0004634863227719468 positive
+made parking 0.0004665690252246929 positive
+app pay parking 0.00048124241839756366 negative
+electric car 0.0004824746753375699 positive
+would nice 0.0004878681919218634 positive
+always works 0.0004901029568066483 positive
+app takes 0.0005124285498720654 positive
+able use 0.0005153274174673811 positive
+easy straightforward 0.0005160619852812819 positive
+coins parking 0.0005218106675586637 positive
+time spent 0.0005251020073002515 positive
+got parking 0.0005463625217567935 positive
+use really 0.0005483291650714479 positive
+need look 0.0005593231452118468 positive
+really convenient 0.0005749707931824256 positive
+actual parking 0.0005828699381575215 positive
+app need 0.0005835288893392365 positive
+time runs 0.00059060634764322 positive
+parked car 0.0005958981326247121 positive
+add time 0.0005993071291373164 positive
+made easy 0.000604307822748137 positive
+easy use application 0.000609946082846179 positive
+time pay 0.0006121856213850712 positive
+first parking free 0.0006269944849780099 positive
+app without 0.0006274368302229266 positive
+time app 0.0006339421694079123 positive
+everyday life 0.0006391580171247548 positive
+easy way 0.0006448865470850236 positive
+time expires 0.0006533309988803838 positive
+good service 0.0006622730890775618 positive
+extend parking time 0.0006719782666851557 negative
+app never 0.0006741831591556152 positive
+app also 0.0006805979017825649 positive
+way pay parking 0.000684049405671338 positive
+old app 0.0006879485811879166 positive
+works really well 0.0006883117486913144 positive
+awesome app 0.0006921704023531853 positive
+started using 0.0006934255529388397 positive
+set parking 0.0006950623510803426 positive
+active parking 0.0006974476476949618 positive
+app uses 0.0007045234686888397 positive
+use easy 0.0007223329221707185 positive
+contact customer 0.0007394013546432352 positive
+comfortable easy 0.0007476299444069866 positive
+ongoing parking 0.00074819235679534 positive
+means payment 0.0007572665605498318 positive
+super simple 0.0007624769215752384 positive
+time try 0.0007658486023144745 positive
+get ticket 0.0007726194126833053 positive
+quick easy 0.0007973593120162158 positive
+area number 0.0007975323485007485 positive
+carry coins 0.000801954752628368 positive
+e free 0.0008067455117136832 positive
+good application 0.0008143885869375697 positive
+simple easy 0.000815994122786766 positive
+lot time 0.0008228218149042925 positive
+one star 0.0008279705977978376 positive
+worked flawlessly 0.0008311685601661177 positive
+pay parking fee 0.0008318317569556752 negative
+e g 0.0008468019012973761 positive
+absolutely brilliant 0.0008469549737084804 positive
+app working 0.0008480413840681656 negative
+promotional code 0.0008506968126369909 positive
+work well 0.0008567071979556369 positive
+app first 0.0008597730450877531 negative
+use code 0.0008735150370352734 positive
+handy app 0.0008761217182357183 positive
+payment machine 0.0008763931107771545 negative
+time time 0.0008799281078331424 positive
+nice easy 0.0008812288700403834 positive
+give stars 0.0008826762319927444 negative
+amount parking 0.0008889424064914758 positive
+always worked 0.0008931614926339257 positive
+credit card number 0.0008946473583999827 negative
+easy parking 0.0008968641794124846 positive
+think app 0.0008997168499977014 positive
+time without 0.00090064225885017 positive
+well done 0.000903783291165305 positive
+app saved 0.0009072773595500917 positive
+otherwise great 0.0009113202614720754 positive
+app open 0.0009134871980847393 positive
+car parks 0.000923080426188483 positive
+works flawlessly 0.0009419006642893892 positive
+mobile city 0.0009462336894843334 negative
+look parking meter 0.0009473831657525943 positive
+would good 0.0009495201285480258 positive
+parking paid 0.000960533386399874 negative
+highly recommended 0.000970263882224843 positive
+new app 0.0009795976590479872 positive
+useful app 0.0009933290738076098 positive
+parking use 0.000997622936097759 positive
+highly recommend 0.0010171350850168661 positive
+best parking app 0.001017307372525869 positive
+transaction fee 0.001018229142445668 negative
+app super 0.0010299786919161563 positive
+easy convenient 0.001031408331608028 positive
+nice able 0.0010426623343589459 positive
+new parking 0.0010442222646055536 positive
+makes life 0.0010475521577376745 positive
+otherwise good 0.0010536533998506505 positive
+two hours 0.0010575925160590434 positive
+without problems 0.001071303480043484 positive
+charge parking 0.0010718032435353495 positive
+lot money 0.0010777137810492122 negative
+take responsibility 0.001088166056234328 negative
+great service 0.0011022982710170673 positive
+used easypark 0.0011040383969201171 positive
+street parking 0.0011046132220252334 negative
+great application 0.0011107888832606724 positive
+expensive use 0.0011125115836028811 negative
+works really 0.0011193394783468563 positive
+change parking 0.0011210408988169501 positive
+get error 0.0011223564550010773 negative
+life easier 0.0011307255901667037 positive
+time parked 0.001131962791404311 negative
+last time 0.001134728238420615 negative
+use easypark 0.0011391072045110714 positive
+code get 0.0011541760463032143 positive
+user experience 0.0011759139522071298 positive
+old one 0.001195455674873309 positive
+parking lots 0.0011998842749205126 positive
+parking also 0.0012105148030646107 negative
+pay much 0.0012139230571039709 positive
+camera parking 0.0012292145687032576 negative
+money back 0.0012292584523789344 positive
+time money 0.001229741391620527 positive
+parking garage 0.001231435657543095 positive
+app got 0.0012327497018850447 positive
+even better 0.001242002424226556 positive
+app several 0.0012450434188143445 negative
+app user 0.001259110389211377 positive
+parking companies 0.0012601074583509868 positive
+gps location 0.0012658092818705802 negative
+payment card 0.001277593650505259 negative
+easy app 0.0012781974973071891 positive
+old version 0.0012851373431956921 negative
+card number 0.0012877713904892176 positive
+way pay 0.0012985638579580947 positive
+time used 0.0012999668971001219 negative
+time wheel 0.001302787287387443 positive
+card payment 0.001304231839431297 negative
+app worked 0.001311435297626103 negative
+want park 0.0013321636873536132 positive
+excellent application 0.001350104010790997 positive
+parking much 0.0013507305026617578 positive
+cancel parking 0.0013588754109946752 negative
+mobile number 0.0013593049300446994 negative
+parking period 0.0013670162357073373 negative
+card information 0.0013759525128478028 negative
+way park 0.001393395187590328 positive
+app would 0.0013961557081549165 positive
+seems like 0.0013970991255672011 positive
+turn wheel 0.0014011319836066414 positive
+credit cards 0.0014035483008863002 positive
+stopped working 0.0014157821610464366 negative
+license plate 0.0014401977655822558 negative
+app long 0.0014444147048622686 negative
+expensive parking 0.001449613721200191 negative
+nothing works 0.0014675748959955162 positive
+car parked 0.0014675964093612437 positive
+app really 0.0014723923169616883 positive
+several years 0.0014786801721636625 positive
+works like 0.001480713794129707 positive
+used parking 0.0014944466815175108 positive
+get car 0.0015023429616827632 positive
+end time 0.001503852988994627 negative
+something went 0.0015155627815816625 positive
+love app 0.0015185832660859209 positive
+fantastic app 0.0015211774065213247 positive
+parking pay 0.0015233462206349357 positive
+free charge 0.001530595545147833 positive
+addition parking 0.001544276178252172 negative
+makes parking 0.001544942611769493 positive
+time park 0.001546752715243783 positive
+app get 0.0015549718236271112 positive
+looks like 0.0015595997495634686 positive
+parking areas 0.001573780143402171 negative
+parking code 0.0015744883273834578 positive
+ticket machine 0.0015902739897091542 positive
+get rid 0.0015919595024665337 positive
+went wrong 0.0015958236501387906 negative
+via app 0.0015960877145787874 negative
+really well 0.0016027581624005341 positive
+user interface 0.0016069480597868775 negative
+app makes 0.0016079026332840782 positive
+worked fine 0.0016133592628402543 negative
+started parking 0.0016204372542130369 negative
+extend time 0.0016246837152115836 negative
+save money 0.0016249408921948304 positive
+update app 0.0016310927564731476 positive
+downloaded app 0.0016489954529066556 positive
+new one 0.0016517513713952756 positive
+easy good 0.0016548071510784448 positive
+another parking 0.0016795019897456135 negative
+app parking 0.0016827284918804343 positive
+super good 0.0016840997680533174 positive
+app app 0.001690640569036885 negative
+look parking 0.001696034437025624 positive
+mobile phone 0.0016987428422205342 negative
+recommend app 0.0016987455184171712 positive
+time parking 0.0017038439223611749 negative
+push notifications 0.0017076242945255238 positive
+registration number 0.0017078891339103652 positive
+text message 0.0017115314928799908 positive
+error messages 0.0017120127556530314 negative
+parking apps 0.001720307255607462 positive
+app one 0.0017331739095989807 negative
+like app 0.0017387280582047842 negative
+got fine 0.0017434590407266076 negative
+previous app 0.0017450184509953406 positive
+debit card 0.0017549560821017434 negative
+since last 0.0017634536730224447 negative
+app want 0.0017653057103143655 negative
+urbis mobile 0.0017723897135877894 positive
+receipt email 0.001779217365473725 positive
+previous version 0.001781243179334506 positive
+best parking 0.001794024700894499 positive
+every day 0.0017973420363297332 positive
+right away 0.001800949424118735 negative
+app used 0.001802672171351585 positive
+easy clear 0.0018109122782948633 positive
+app like 0.0018365535624513673 positive
+back car 0.0018369924435318946 positive
+e mail 0.001842873939553767 negative
+app pay 0.001852989674990508 negative
+app great 0.0018565220844543033 positive
+would great 0.0018620657540995256 positive
+app still 0.001868723759371557 negative
+take care 0.0018807355472696256 negative
+get fine 0.001882558085021869 negative
+another app 0.001886157322088401 positive
+charges commission 0.001904182254086314 negative
+hour parking 0.0019083579998721556 negative
+parking payment 0.0019147130847912864 negative
+per parking 0.001921087769495056 positive
+two cars 0.0019378661329464517 negative
+finish parking 0.001946964692044513 positive
+pay extra 0.0019558058547071897 negative
+parking meters 0.001993989573448542 positive
+latest version 0.0019948296455899943 negative
+park easy 0.0019995652752810315 positive
+find another 0.0020010280927179273 negative
+open app 0.0020120800115410566 negative
+parking easy 0.002014634247972096 positive
+super app 0.0020172292103217684 positive
+every time park 0.0020419995370141693 negative
+next day 0.002045259554296102 negative
+start stop 0.002046099829647494 negative
+something went wrong 0.002070321630933813 negative
+excellent app 0.002077821951973955 positive
+latest update 0.002083545018183854 negative
+time get 0.002105963124880654 negative
+good idea 0.002106567258025556 negative
+worked great 0.0021121649432352648 positive
+parking area 0.0021169765413401147 negative
+payment parking 0.002118537327489567 negative
+parking fines 0.002120103131325103 positive
+make sure 0.0021321296298272906 positive
+parking process 0.0021396346141834264 negative
+find parking 0.0021523031554984244 negative
+use parking 0.0021775374049602656 positive
+parking fees 0.0021850270454179654 positive
+really easy 0.0022216786415687863 positive
+parking machine 0.002226011009734518 positive
+app find 0.0022281500400583546 negative
+get parking 0.002241637094626985 positive
+app even 0.0022474682868473036 negative
+parking even 0.0022606674161745337 positive
+time running 0.0022621529399121858 positive
+works fine 0.0022729350842799674 positive
+parking get 0.0022814104845912484 negative
+previous one 0.00231882181829081 positive
+app made 0.0023214843087532495 negative
+still get 0.0023278612243119736 negative
+per month 0.0023487786746754467 positive
+network errors 0.002354120410781292 negative
+apple pay 0.002361723451577346 negative
+cell phone 0.002375722221021111 negative
+parking fine 0.002379773610461445 positive
+new update 0.0023857740725151395 negative
+app easy 0.002386028542992048 positive
+parking tickets 0.0024103854862838605 negative
+new version 0.002419632031543816 negative
+paying parking 0.0024387692200907927 negative
+park app 0.002453787222446267 positive
+get money 0.0024746807671171367 negative
+parking costs 0.002485309638011789 negative
+parking without 0.002486977062640751 negative
+park car 0.002487988010412214 negative
+good easy 0.00250487062237921 positive
+app good 0.00250739767938256 positive
+installed app 0.0025189739252616627 negative
+long time 0.0025467429873205767 positive
+app use 0.002563625780740455 positive
+many times 0.0025660673180993247 negative
+get receipt 0.0025717458231873424 negative
+user friendly 0.0025966107802727896 positive
+parking button 0.0026063891356032016 negative
+first parking 0.0026124985191494803 positive
+tariff group 0.0026381830201355747 negative
+using easypark 0.002646550174213516 positive
+application works 0.0026628502790032997 negative
+use another 0.0026724720458596294 negative
+much expensive 0.0026819427399386404 negative
+parking zones 0.0026957271417187988 negative
+worked well 0.0026963542417008206 positive
+app longer 0.002704038186264951 negative
+want pay 0.002711636022665559 positive
+really good 0.002713879169058494 positive
+sms park 0.002716324231386812 negative
+set time 0.0027252395954069767 negative
+longer use 0.002737617052160993 negative
+app work 0.002745337113620058 negative
+service fee 0.0028081639806909974 negative
+happy app 0.0028083631714423797 positive
+come back 0.0028129096223165465 negative
+parking free 0.0028241218145836546 positive
+parking spaces 0.0028635441158924263 positive
+parking ticket 0.002867248941694602 positive
+app charges 0.0028795618865137553 negative
+time longer 0.0028816383429809455 negative
+end parking 0.0029271480225429593 negative
+used app 0.002957950390077203 positive
+first time 0.0029896902491351397 positive
+several times 0.0030169875532667094 positive
+time use 0.003024201837971878 negative
+pay fine 0.0030407309126843605 negative
+charge commission 0.0030533498153090134 negative
+extend parking 0.003129634992852983 positive
+pay time 0.003134950993067728 positive
+city council 0.003142120208370286 positive
+half hour 0.0031471136410146775 negative
+last update 0.0031559082393720827 negative
+app works 0.003165106119806166 positive
+put ticket 0.0031729696167508386 negative
+download app 0.003176236007832325 negative
+parking zone 0.0031991488143869808 positive
+longer works 0.0032064588379298238 negative
+useless app 0.0032068849990469894 negative
+parking started 0.003216914805648067 negative
+never use 0.0032298870192948594 negative
+cost parking 0.0032454927860278227 negative
+vending machines 0.0032865737890790388 negative
+go back 0.0034070198267918857 negative
+much better 0.0034158187452131457 positive
+payment method 0.003435258751639878 negative
+pay app 0.003446005380124153 negative
+get free parking 0.00345114012314991 positive
+super practical 0.003454364114664101 positive
+best app 0.0034782131095852805 positive
+easypark app 0.003481856163368725 negative
+blue zone 0.003667969357756615 negative
+super easy 0.0038595780038154378 positive
+forced use 0.0038662980193206182 negative
+parking app 0.003946142395036412 positive
+easy fast 0.003975252974705829 positive
+waste time 0.004075624293548593 negative
+app unfortunately 0.004135394411360695 negative
+parking space 0.004155255812707331 positive
+much easier 0.0041597122155885855 positive
+free parking money 0.004212230594698531 positive
+get free 0.004221446552599991 positive
+would like 0.00429391972161389 positive
+connection error 0.00438622938403325 negative
+use application 0.00439983020258945 negative
+start parking 0.0045160334786075364 positive
+vending machine 0.004616625263026869 negative
+car park 0.004701726980728526 negative
+forced switch 0.004702297914682572 negative
+parking fee 0.004707810754881048 positive
+terrible app 0.0049104321656436335 negative
+soon balance 0.004941814863653139 negative
+internet connection 0.00495107762925523 negative
+works well 0.005087038555950135 positive
+area code 0.005145462686880094 negative
+app useless 0.005302318270753972 negative
+easy park 0.005446763842886817 positive
+every time 0.0056140554899865615 negative
+paid parking 0.005668303922470129 positive
+much worse 0.00574753820538163 negative
+using app 0.005867446872654922 negative
+completely useless 0.006137293634559946 negative
+parking meter 0.0062713154164698885 negative
+wrong parking 0.006348973660887891 negative
+worst app 0.006475354224866095 negative
+works perfectly 0.006549403228351629 positive
+phone number 0.006558319422862462 negative
+stop parking 0.006696599131164724 negative
+use app 0.006893806896116635 positive
+even though 0.007134303889381633 positive
+credit card 0.007172339015772703 positive
+pay parking 0.007183334504525586 negative
+free parking time 0.007623563592370838 positive
+works great 0.007911928724882125 positive
+error code 0.008264255769017709 negative
+parking lot 0.008284427316299319 positive
+good app 0.008559348407132038 positive
+bad app 0.008668135817534683 negative
+great app 0.008677644397817468 positive
+parking time 0.009363747771194494 positive
+parking money 0.009862261986617082 positive
+customer service 0.010353029777718679 negative
+error message 0.014610583723009506 negative
+e park 0.017848093145421223 negative
+free parking 0.034251542273649495 positive
+easy use 0.034817079083819924 positive
+
+====================evaluate==================
+
+1¡¢metrics£º
+
+[[ 262  274]
+ [ 190 1230]]
+
+2¡¢precision recall f1-score£º
+
+              precision    recall  f1-score   support
+
+    negative       0.58      0.49      0.53       536
+    positive       0.82      0.87      0.84      1420
+
+    accuracy                           0.76      1956
+   macro avg       0.70      0.68      0.69      1956
+weighted avg       0.75      0.76      0.76      1956
+
+
+3¡¢oob_score£º
+
+0.7783380837535628
+
+====================n-gram evaluate==================
+
+free parking 0.03590476316659877 positive
+easy use 0.03551516056497634 positive
+e park 0.020159656806073584 negative
+error message 0.012802039971563532 negative
+bad app 0.011554555255257582 negative
+great app 0.010986076918458315 positive
+error code 0.010687936850701012 negative
+customer service 0.010446369362983196 negative
+works great 0.009730368223811726 positive
+parking time 0.009676272331523102 positive
+every time 0.009418411370633756 negative
+stop parking 0.009378444075387089 negative
+parking lot 0.009329925854514254 positive
+good app 0.008993923059140112 positive
+use app 0.008177739279882709 positive
+app useless 0.0071887829633038546 negative
+credit card 0.0069350665233214445 positive
+parking money 0.006916628530990342 positive
+phone number 0.006706997617664222 negative
+free parking time 0.006706249774737103 positive
+works perfectly 0.006703692190217606 positive
+pay parking 0.006617708064234128 negative
+wrong parking 0.006313079835718463 negative
+easy park 0.006007332648061028 positive
+connection error 0.005856570598012046 negative
+parking meter 0.005737157805739893 negative
+pay app 0.005650784301989024 negative
+completely useless 0.005388121081977529 negative
+using app 0.005199652688812045 negative
+useless app 0.005138321027968803 negative
+forced switch 0.005008663738693676 negative
+much expensive 0.004874360809879571 negative
+several times 0.004742168072637367 positive
+stopped working 0.004642782255619594 negative
+app unfortunately 0.004575380628958325 negative
+paid parking 0.004567806861316437 positive
+vending machine 0.004513249391092722 positive
+much worse 0.00445648651646178 negative
+pay fine 0.004443254416793685 negative
+waste time 0.004412686182324194 negative
+much easier 0.00439405088152488 positive
+even though 0.004388560857654619 positive
+longer works 0.0043230121739425914 negative
+charge commission 0.004311004092444818 negative
+really good 0.00426180799224262 positive
+parking app 0.004235635139221083 positive
+payment method 0.004220835865396355 negative
+free parking money 0.004195248665183912 positive
+works well 0.004153209894192456 positive
+area code 0.004107158688766756 negative
+latest update 0.004053934489042105 negative
+parking fee 0.004042525855275829 positive
+good easy 0.004009913005801049 positive
+much better 0.0039663756706934845 positive
+best app 0.003954385603667298 positive
+would like 0.003938409474030925 positive
+internet connection 0.0039045478161118525 negative
+app works 0.003885146961304371 positive
+find another 0.0038833641199251413 negative
+super easy 0.003861254651718415 positive
+set time 0.0038459970918463043 negative
+soon balance 0.0038138271319130513 negative
+half hour 0.0036927687690049764 negative
+previous one 0.003493263220792222 positive
+forced use 0.0034840022632653274 negative
+get free 0.00342442872404424 positive
+easy fast 0.0033977095415301983 positive
+parking started 0.0033879399009252385 negative
+new version 0.0033847666832043204 negative
+paying parking 0.0033625756718081512 negative
+car park 0.0033569070704115877 negative
+tariff group 0.003338728129908301 negative
+start parking 0.003314616835863375 positive
+worst app 0.0032975021879671795 negative
+extend parking 0.003262804449701879 positive
+terrible app 0.0032224795176398198 negative
+take responsibility 0.0031826412567376177 negative
+user friendly 0.0031772418750878923 positive
+download app 0.0030538947166618958 negative
+app longer 0.0030224333355415205 negative
+last update 0.003020654738442069 positive
+cost parking 0.0029925660302234534 negative
+get fine 0.002952154775193632 negative
+really easy 0.002931112844002727 positive
+get free parking 0.0029245107728349613 positive
+service fee 0.0029144958056304686 negative
+use application 0.0029121027711703244 negative
+charges commission 0.002867411230515365 negative
+parking without 0.0028570893550453817 negative
+mobile number 0.002795240948902021 negative
+easypark app 0.0027936665480830687 negative
+parking space 0.002790112908025071 positive
+first parking 0.0027832256159399655 positive
+vending machines 0.0027252064453226203 positive
+come back 0.0027243144713479032 negative
+first time 0.0027234070985118226 positive
+app work 0.002719589103314514 negative
+new update 0.002681751635547417 negative
+worked well 0.002676844337010042 positive
+per month 0.002673225084056568 negative
+parking zone 0.0026626605089319195 positive
+go back 0.0026526726462902757 positive
+parking process 0.002625717897802164 negative
+take care 0.002621866852610352 negative
+time longer 0.00261642420200504 negative
+app use 0.002616396655908902 positive
+license plate 0.0025953371753399566 positive
+end parking 0.0025809115079204314 negative
+network errors 0.0025751525899840155 negative
+app want 0.00257103445343476 negative
+happy app 0.0025425127321869545 positive
+hour parking 0.0025271074437411395 negative
+parking ticket 0.0025219872702206283 positive
+used app 0.0024876418169061947 positive
+super practical 0.002476124914438705 positive
+installed app 0.0024731759108917372 negative
+parking area 0.00244903944172676 positive
+time get 0.0024123924779856734 negative
+parking spaces 0.002398468200454187 positive
+blue zone 0.0023848860466571522 negative
+app like 0.0023837067152413776 positive
+sms park 0.0023701901180539055 positive
+parking free 0.0023591426668950516 positive
+application works 0.0023572643847174033 negative
+camera parking 0.002337975865017688 negative
+parking meters 0.002327451770505426 positive
+long time 0.002316585192765852 negative
+time running 0.00230295893462055 positive
+parking fees 0.0023017723886679916 positive
+app good 0.0023013632996728966 positive
+urbis mobile 0.0022627848724233986 positive
+longer use 0.002250042818916287 negative
+super app 0.002229614177123047 positive
+apple pay 0.0022146278079782037 negative
+parking fine 0.002208578972760105 positive
+debit card 0.0022074050902393242 negative
+works fine 0.00220168619792777 negative
+app great 0.002184208674672797 positive
+extend time 0.0021727712216613234 negative
+super good 0.00216532302808465 positive
+use easypark 0.002164341714299898 negative
+parking costs 0.0021595031037029153 negative
+get ticket 0.002158395715763295 negative
+parking apps 0.0021268803952868977 positive
+use another 0.0021191010489542772 negative
+app even 0.0021137764654370495 positive
+parking also 0.002112905548749999 positive
+user experience 0.002101340432227015 positive
+put ticket 0.002095316023114789 negative
+parking button 0.0020947075358174008 positive
+excellent app 0.002069892777191057 positive
+want pay 0.0020644173704527646 negative
+save money 0.002050183140119953 positive
+expensive use 0.0020450831256849126 positive
+text message 0.002033180956623183 negative
+recommend app 0.0020237642613680964 positive
+got fine 0.0020063570685465615 negative
+get receipt 0.0019751561436309566 negative
+app working 0.001971727899518311 negative
+using easypark 0.0019491574301790668 positive
+start stop 0.0019349440349889107 negative
+park car 0.0019303091025293742 positive
+since last 0.0019226812172062338 negative
+parking get 0.0019143772779294445 negative
+parking companies 0.00191229212107783 positive
+many times 0.001898750506460757 negative
+parking zones 0.001897650756236359 positive
+pay time 0.0018891682528641089 positive
+payment parking 0.0018887518664173083 positive
+receipt email 0.0018707249250355005 positive
+error messages 0.0018652163486409853 negative
+street parking 0.0018596023673590446 negative
+city council 0.0018592610396210166 positive
+new one 0.0018507940816881354 negative
+easy clear 0.0018475912255070434 positive
+downloaded app 0.0018451283245676433 positive
+app used 0.0018305452177979564 negative
+next day 0.0018239000044601452 positive
+never use 0.0018195307340442208 negative
+parking fines 0.0018099825501693713 positive
+addition parking 0.0018060558183718405 negative
+back car 0.0017949638890130198 positive
+app charges 0.001790445148618594 positive
+parking even 0.0017836568470841463 negative
+app several 0.0017720346645376617 negative
+time parking 0.0017691896978813083 negative
+works like 0.0017642177790895802 positive
+parking paid 0.0017513468019067539 negative
+park app 0.0017511280963764056 positive
+find parking 0.0017284025969469994 positive
+open app 0.0017184638030612162 positive
+fantastic app 0.0017036721495239243 positive
+right away 0.0017027383299936451 positive
+per parking 0.0016693019998793622 positive
+parking pay 0.0016646469890301294 positive
+would great 0.0016575981022757794 positive
+park easy 0.0016565503119883125 positive
+every day 0.001646519409676429 positive
+area number 0.001644038922778738 negative
+time park 0.001635095389556517 positive
+e mail 0.0016332421254478446 negative
+end time 0.0016324867856267558 negative
+app made 0.001631974220962245 negative
+think app 0.0016293519093536688 positive
+app parking 0.0016027955011076393 positive
+ongoing parking 0.001591891039482265 negative
+used easypark 0.0015880174538697312 positive
+car parked 0.0015863860228895854 positive
+app still 0.001583347577284398 positive
+app user 0.0015798368956600017 positive
+make sure 0.0015767925296066158 positive
+still get 0.0015707116985404532 negative
+want park 0.0015609307276916934 positive
+easy good 0.0015581837173367216 positive
+app easy 0.0015553284735263923 positive
+parking code 0.0015490090601030433 positive
+charge parking 0.001548724776283512 negative
+parking machine 0.0015464173001624698 positive
+parking tickets 0.0015416568570542641 negative
+app open 0.0015368334776444394 positive
+parking lots 0.001515365501586272 positive
+pay extra 0.001503249679356715 positive
+get parking 0.0015014852292952203 positive
+card number 0.0014994213652644432 positive
+used parking 0.0014982711330736088 positive
+use parking 0.0014947155139722298 negative
+another app 0.0014866489068262178 positive
+parking attendant 0.001486630548837073 negative
+time parked 0.0014860181305199637 negative
+parking much 0.0014852198173907615 positive
+active parking 0.0014711724099955707 negative
+app get 0.0014671889359837147 negative
+even better 0.001461390246571319 positive
+way pay 0.0014592566011982669 positive
+app worked 0.0014588971206255833 negative
+love app 0.001456171935755141 positive
+new parking 0.0014530513021499434 negative
+free charge 0.0014493040948034236 positive
+ticket machine 0.001449232640111771 positive
+via app 0.0014488824303483154 negative
+promotional code 0.0014415210560604936 positive
+e g 0.001430805458895158 positive
+look parking 0.0014232898332996128 negative
+registration number 0.0014131744122009955 negative
+app app 0.001409407709361344 negative
+easy app 0.0013786899635152541 positive
+worked fine 0.001376912350021946 negative
+expensive parking 0.0013764424118257355 negative
+went wrong 0.0013756403530857492 negative
+app makes 0.0013700078576432504 positive
+payment card 0.0013657291417209006 positive
+user interface 0.001364059326666197 positive
+something went wrong 0.0013591461342620157 negative
+get car 0.0013587242153513938 positive
+two hours 0.0013536329878341977 positive
+app also 0.0013524416875814156 positive
+get rid 0.0013454078644956939 negative
+something went 0.0013445431621495426 negative
+parking easy 0.001329578738641847 positive
+best parking 0.0013260142729403942 positive
+pay parking fee 0.0013249003325027412 positive
+nothing works 0.0013222089758722622 positive
+car parks 0.0013024039265400649 positive
+works really 0.0013013611235581902 positive
+amount parking 0.0013001128330347941 positive
+worked great 0.0012901496133114721 positive
+time wheel 0.001288287463138678 positive
+mobile phone 0.0012831536157659215 negative
+last time 0.0012697057098709148 positive
+several years 0.0012680243473961123 positive
+great service 0.0012668134002903487 positive
+get error 0.001266294211730546 negative
+cancel parking 0.0012611962549874977 negative
+app one 0.0012287867911643675 negative
+time use 0.0012283547319054714 positive
+two cars 0.0012201230380267753 negative
+works flawlessly 0.0012128901065150777 positive
+latest version 0.0012051089565013218 negative
+seems like 0.0012048749453931636 positive
+app uses 0.0012000357298055657 positive
+good idea 0.0011972384449347815 negative
+life easier 0.001194196498474131 positive
+parked car 0.001192306135022944 negative
+good application 0.0011915806285447007 positive
+highly recommend 0.0011827877528104503 positive
+otherwise good 0.001182255129056886 positive
+gps location 0.0011798325478090497 positive
+like app 0.001172807888495243 positive
+cell phone 0.0011462206378177334 negative
+payment machine 0.0011369013507281465 negative
+give stars 0.0011194677232281257 negative
+way park 0.0011103756473636222 positive
+turn wheel 0.001105870173474591 positive
+app would 0.0010971399159055478 positive
+every time park 0.0010904676802882343 negative
+would good 0.0010860302757676626 positive
+time used 0.0010840072160866491 positive
+useful app 0.0010828573834426882 positive
+update app 0.0010809436851813808 positive
+app really 0.001080147559377827 positive
+finish parking 0.0010800030941014577 positive
+app find 0.0010779036270206787 positive
+app saved 0.0010628131296471954 positive
+get money 0.0010605486773344408 negative
+push notifications 0.001040711161315352 positive
+without problems 0.0010400089472306392 positive
+parking use 0.0010195406310563775 positive
+change parking 0.001014952587147213 positive
+well done 0.0010115513067422517 positive
+absolutely brilliant 0.0010022402681280943 positive
+started using 0.0010009358131662502 positive
+makes parking 0.0009873643790125886 positive
+looks like 0.0009801546934117384 positive
+parkman app 0.0009796312483399037 positive
+another parking 0.0009692053583809218 positive
+everyday life 0.0009684692287968128 positive
+app pay 0.0009664143997261241 positive
+app free 0.0009655208975270516 negative
+excellent application 0.0009631544418687302 positive
+nice able 0.0009569873584382568 positive
+app need 0.0009512940781785135 negative
+app got 0.0009494190137356818 positive
+pay much 0.0009205057684254578 positive
+lot money 0.0009147060429424429 negative
+parking areas 0.0009126884900090838 negative
+card payment 0.0009105268609224172 positive
+lot time 0.0008959363472738763 positive
+time try 0.0008892842735479543 positive
+time pay 0.0008837025913550062 positive
+parking period 0.0008758407338540031 negative
+otherwise great 0.0008727624242050729 positive
+credit card number 0.000864374501324694 negative
+would nice 0.0008620064443803994 positive
+highly recommended 0.0008559457482440817 positive
+parking times 0.0008469484166961554 positive
+use code 0.0008424259253625111 positive
+super simple 0.0008357467066583745 positive
+parking garage 0.0008349919960039267 positive
+need look 0.0008183958153065227 positive
+transaction fee 0.000814889625484167 negative
+absolutely great 0.0008143932855325553 positive
+old version 0.0008135722936457555 negative
+time spent 0.0008062631937932389 negative
+time without 0.0008061428381577256 positive
+previous version 0.0008028982899850983 positive
+code get 0.0007782215817956174 positive
+app first 0.0007697633816888595 negative
+works easy 0.0007672996979376788 positive
+makes life 0.0007640604802521189 positive
+quick easy 0.0007600077557873445 positive
+awesome app 0.0007509698897139102 positive
+really well 0.0007496342380379127 positive
+new app 0.0007465955435392499 positive
+best parking app 0.0007407672625626262 positive
+promo code 0.000734468653371591 negative
+time time 0.0007344531781106642 positive
+great application 0.0007234331031748173 positive
+credit cards 0.0007148082297880333 positive
+electric car 0.0007087452170897363 positive
+set parking 0.0006992434803094134 positive
+card information 0.0006991513227301899 positive
+money back 0.0006978650564813106 positive
+simple easy 0.0006894009240614209 positive
+always worked 0.0006827504281349445 positive
+coins parking 0.0006666948405023249 positive
+old one 0.0006598815789809115 positive
+first parking free 0.0006548688580384456 positive
+way pay parking 0.0006526251381720563 positive
+well functioning 0.0006511524858294766 positive
+easy way 0.0006509516110278492 positive
+good service 0.0006500977049663152 positive
+parking payment 0.0006395082938742046 positive
+parking car 0.0006256943929723052 positive
+nice easy 0.0006235673735336898 positive
+add time 0.0006215170008402504 positive
+use easy 0.0006190979576616735 positive
+convenient app 0.0006187297961444822 positive
+previous app 0.0006142892993829595 positive
+easy convenient 0.0006052440063280146 positive
+work well 0.0005867406564627398 positive
+look parking meter 0.0005835353060242934 positive
+app without 0.0005780779042579963 positive
+actual parking 0.000571730603170439 positive
+great easy 0.0005525946315893651 positive
+time need 0.0005496045714097023 positive
+super happy 0.0005495302344847643 positive
+started parking 0.0005487901253098726 positive
+one star 0.0005467344631655734 positive
+time money 0.0005462066734195855 positive
+app takes 0.0005382649382073596 positive
+app works well 0.0005356008072648827 positive
+got parking 0.0005230928007301172 positive
+easy parking 0.0005205069521205604 positive
+easy straightforward 0.0005203045190525324 positive
+means payment 0.0005104434299318648 positive
+app ever 0.0005037782240814661 positive
+time app 0.0004942316401635778 positive
+contact customer 0.0004911302309890577 positive
+use really 0.0004872302871078147 negative
+always works 0.00048556021291220697 positive
+time easy 0.0004819559975005492 positive
+app never 0.00048193795932020443 positive
+extend parking time 0.0004802253538409794 positive
+easy pay 0.00047326999594842016 positive
+money code 0.0004583395131383442 positive
+app long 0.00044194789729960543 positive
+phone parking 0.00043483155127691957 positive
+worked flawlessly 0.0004260226715874498 positive
+time expires 0.00042193111727812114 positive
+saves money 0.0004160805644217627 positive
+coins car 0.0004139590574282922 positive
+carry coins 0.0003965101083494958 positive
+easy use app 0.0003912277237448855 positive
+free parking code 0.0003843064077503637 positive
+enter parking 0.0003748788575180443 positive
+enter code 0.00037458959746042997 positive
+actual parking time 0.0003708006155123997 positive
+app pay parking 0.00034117752101854576 negative
+e free 0.0003328278846929718 positive
+really convenient 0.0003232689118513602 positive
+code parking 0.00031825753848551655 positive
+app super 0.00030508067013559534 positive
+made easy 0.00030227251041528206 positive
+mobile city 0.00030164314759608806 positive
+works really well 0.0002999829938993607 positive
+e free parking 0.00029856784075394516 positive
+discount code 0.0002943863367820416 positive
+saves time 0.0002938277850688049 positive
+comfortable easy 0.00028898326989691974 positive
+increase parking time 0.0002830996889405853 positive
+code free 0.00028308725977853046 positive
+good thing 0.00027914005978332904 positive
+money parking 0.0002768055016835547 positive
+use pay 0.000269212134340246 positive
+get e 0.00026802969184626336 positive
+apple watch 0.00026750733424397316 positive
+easy use application 0.0002614311448249181 positive
+increase parking 0.0002608748528476678 positive
+e parking 0.00024175805070085994 positive
+use good 0.00023512261913284698 positive
+clear easy 0.00023271496473856404 positive
+car app 0.00022569043430166317 positive
+application easy 0.00022115688824647216 positive
+old app 0.00021246056862407877 positive
+parking euros 0.00020924905655363837 positive
+code free parking 0.0002047620345106237 positive
+time runs 0.00020134283436632465 positive
+get euros 0.000200254958963008 positive
+next parking 0.00019550136359690687 positive
+able use 0.00019319202199939313 positive
+good easy use 0.0001844805135764378 positive
+makes life easier 0.0001710869506353289 positive
+time code 0.0001677063262431275 positive
+convenient application 0.00016292206517154483 positive
+get first 0.00016013391336418931 positive
+good code 0.00015702731890510134 positive
+code e 0.00015293273045600695 positive
+easy use good 0.0001473769008012778 positive
+made parking 0.0001441125683342055 positive
+app easy use 0.00014225000868154497 positive
+code q 0.00014023093746186628 positive
+well easy 0.00013657523176861705 positive
+spinning wheel 0.00013193728008855247 positive
+super easy use 0.00012790599145799772 positive
+parking much easier 0.00012330519258984616 positive
+easy extend 0.00011978755527523597 positive
+parking money code 0.0001056928340424172 positive
+parking time code 0.00010218942353060926 positive
+parking e 9.805346680986704e-05 positive
+app code 8.78265403057586e-05 positive
+euros free 8.43665168416685e-05 positive
+handy app 7.070928456189406e-05 positive
+get e free 5.8731362161246444e-05 positive
+get first parking 5.196487947514726e-05 positive
+code k 4.4644987308389905e-05 positive
+really good app 3.432637480695543e-05 positive
+get euros free 3.083208029175238e-05 positive
+really handy 2.9222993204990324e-05 positive
+really easy use 2.2948431576327702e-05 positive
+euros free parking 2.292502306936962e-05 positive
+easy use easy 2.1757511140434315e-05 positive
+e parking money 1.5766825877284988e-05 positive
+use promotional 1.535941101701012e-05 positive
+use works 1.315540893451587e-05 positive
+code p 8.99512722318962e-06 positive
+code r 8.211502346462894e-06 positive
+use promotional code 7.640198075679849e-06 positive
+well easy use 7.618185126539366e-06 positive
+good app code 7.322959694710512e-06 positive
+easy use works 5.89479268183335e-06 positive
+code get free 2.9974180862290234e-06 positive
+great app code 2.5744170565469354e-06 positive
+application code 2.341397625235518e-06 positive
+app free parking 1.4930042533402265e-06 positive
+another free 1.1975651383861417e-06 positive
+great app easy 1.076679140253359e-06 positive
+free parking euros 5.1296537778676e-07 positive
+code c 4.656218269131515e-07 positive
+receive free parking 2.609157790543342e-07 positive
+receive free 1.2239534896659845e-07 positive
+
+====================evaluate==================
+
+1¡¢metrics£º
+
+[[ 273  263]
+ [ 163 1257]]
+
+2¡¢precision recall f1-score£º
+
+              precision    recall  f1-score   support
+
+    negative       0.63      0.51      0.56       536
+    positive       0.83      0.89      0.86      1420
+
+    accuracy                           0.78      1956
+   macro avg       0.73      0.70      0.71      1956
+weighted avg       0.77      0.78      0.77      1956
+
+
+3¡¢oob_score£º
+
+0.7735145801359351
+
+====================n-gram evaluate==================
+
+The top  10 elements, their importance number and class
+easy use 0.03396079776017018 positive
+free parking 0.030843413384147665 positive
+e park 0.015964397098659492 negative
+bad app 0.010875285891629165 negative
+great app 0.010093834995741052 positive
+customer service 0.01007466666906471 negative
+error message 0.009941136049536833 negative
+parking time 0.009889391566314574 positive
+works great 0.009187943298495734 positive
+pay parking 0.008998359713562085 negative
+The complete list of elements' importance number and class
+easy use 0.03396079776017018 positive
+free parking 0.030843413384147665 positive
+e park 0.015964397098659492 negative
+bad app 0.010875285891629165 negative
+great app 0.010093834995741052 positive
+customer service 0.01007466666906471 negative
+error message 0.009941136049536833 negative
+parking time 0.009889391566314574 positive
+works great 0.009187943298495734 positive
+pay parking 0.008998359713562085 negative
+use app 0.008279453237718962 positive
+good app 0.008200201099011057 positive
+free parking time 0.008162786494099298 positive
+parking lot 0.008003598828658323 positive
+parking money 0.007804119263689104 positive
+error code 0.007771862160042758 negative
+credit card 0.007251117372129166 positive
+stop parking 0.006915315652083042 negative
+terrible app 0.006745090363307484 negative
+much expensive 0.006610741141597662 negative
+works perfectly 0.00611693619992332 positive
+phone number 0.005965126372075529 negative
+free parking money 0.00593092597759987 positive
+every time 0.0058778383113346185 negative
+wrong parking 0.005863240952871424 negative
+start parking 0.005679029989964703 positive
+soon balance 0.005677998385604764 negative
+easy park 0.005624802003629875 positive
+connection error 0.005608572907520239 negative
+parking meter 0.005446373857836112 negative
+area code 0.005407190076682235 negative
+parking app 0.005256078536940371 positive
+useless app 0.00523588376751778 negative
+use application 0.005079737875012174 negative
+app useless 0.005061974076397051 negative
+waste time 0.005050175874236046 negative
+completely useless 0.004843545953245244 negative
+parking fee 0.004751374276916905 positive
+even though 0.004744022104924496 positive
+put ticket 0.004664214557206194 negative
+latest update 0.0046242916790591995 negative
+much worse 0.004447268806159987 negative
+using app 0.004443232825802924 negative
+paid parking 0.0043247105016001805 positive
+worst app 0.004149476612482304 negative
+works well 0.004073750128466091 positive
+internet connection 0.004067625381717129 negative
+pay fine 0.0040607537361960115 negative
+super easy 0.0040042093858362465 positive
+installed app 0.004000638820756296 negative
+forced switch 0.003999767789364088 negative
+stopped working 0.003971045428939537 negative
+get free 0.0038947397036874242 positive
+last update 0.003880320213016235 negative
+parking space 0.003841792614527657 negative
+would like 0.0038337358137337995 positive
+much better 0.0037597761600846676 positive
+get fine 0.003716873492504854 negative
+download app 0.0036999500167443876 negative
+longer use 0.003669243943940203 negative
+longer works 0.0036218521250020795 negative
+good easy 0.0036210424651575046 positive
+pay app 0.0035970169746574994 negative
+payment method 0.003582580596709912 negative
+easy fast 0.003556083261982286 positive
+much easier 0.003524432835461678 positive
+parking zone 0.0035010732901182883 positive
+car park 0.003453228650954523 negative
+app several 0.003438117984480495 negative
+vending machine 0.0034174588474737556 negative
+forced use 0.003401761448301261 negative
+paying parking 0.003388935490181391 negative
+app even 0.0033708215358749316 negative
+want pay 0.0033288464663011295 negative
+parking ticket 0.0033275691724821994 positive
+parking spaces 0.0032895350574446976 positive
+charge commission 0.00327067057061287 negative
+get free parking 0.0032621439982365445 positive
+new version 0.003243864742368671 negative
+really good 0.0032342247674249348 positive
+tariff group 0.0032269407919120145 negative
+network errors 0.0031741881528496575 negative
+vending machines 0.0031401214459297055 negative
+several times 0.0031353075589552622 negative
+app works 0.003109005357370007 positive
+app work 0.003068184333884604 negative
+best app 0.00305535050089782 positive
+time use 0.003014807959709051 negative
+extend parking 0.0030011013978428636 positive
+blue zone 0.0029952340469777405 negative
+set time 0.002963978919273377 positive
+find another 0.0029602678914701836 negative
+new update 0.0029403289490762376 negative
+pay time 0.00292052608743572 positive
+worked well 0.002891438162882034 positive
+parking get 0.0028804566890946 negative
+parking process 0.0028476162865646005 negative
+parking free 0.0028155877133776808 positive
+app good 0.0027473036494541107 positive
+easypark app 0.002736950004803498 negative
+use another 0.002733046394273792 negative
+city council 0.0027293916746582952 negative
+time longer 0.002722439320516113 negative
+first time 0.002721554366404904 positive
+end parking 0.00270179646462248 negative
+long time 0.0026923430506309316 negative
+parking zones 0.00267728457782358 negative
+sms park 0.0026661105725170136 negative
+go back 0.002659399517788404 positive
+app parking 0.002638653109717954 negative
+error messages 0.002613170151398692 negative
+find parking 0.0025811176892761 positive
+really easy 0.0025779293960613067 positive
+app use 0.0025577758934658113 positive
+super practical 0.002552062238988404 positive
+using easypark 0.0025458324259778633 positive
+payment parking 0.0025444068528085477 positive
+app get 0.0025248428788272616 negative
+since last 0.002523155791048614 negative
+app want 0.0025178357914994137 negative
+service fee 0.002481457506144406 negative
+many times 0.0024757180420229273 negative
+parking meters 0.002447629722234794 positive
+like app 0.00243149493587746 negative
+app easy 0.0024295939794210216 positive
+previous one 0.0024280527191283935 positive
+use easypark 0.0024252858601920067 negative
+get money 0.002422044739509409 negative
+parking fines 0.002415100575083937 positive
+user friendly 0.0023907959443798567 positive
+next day 0.0023809561467648247 negative
+every day 0.0023807807483203986 negative
+app unfortunately 0.0023773779550050477 negative
+via app 0.002375778832714975 negative
+parking fees 0.0023729960481593936 positive
+parking started 0.0023498076596144266 positive
+cancel parking 0.0023291640842801773 negative
+used app 0.0023264157114053895 positive
+get receipt 0.002309805539236855 negative
+parking tickets 0.0022477911267086512 negative
+take responsibility 0.0022294722773554478 negative
+happy app 0.00219177852158246 positive
+super app 0.0021874501787975697 positive
+super good 0.002179120435163548 positive
+easy good 0.0021765115808076744 positive
+time try 0.002159700079017854 negative
+parking payment 0.00214330620121695 negative
+user experience 0.00213423371073937 positive
+park easy 0.0021241517910568298 positive
+ongoing parking 0.002121024592659544 negative
+new one 0.0021144266867044476 positive
+parking fine 0.002084153344022291 positive
+cell phone 0.0020761783378352395 negative
+get parking 0.0020654024209359294 positive
+parking even 0.002061607023891387 positive
+app pay 0.0020231233228543725 negative
+application works 0.002018772054667628 negative
+works fine 0.002016354521483055 positive
+half hour 0.0020046541158964593 negative
+went wrong 0.0019973569223676944 negative
+parking area 0.001995429443168975 negative
+addition parking 0.0019892147234257564 negative
+come back 0.001977021849304639 negative
+good application 0.0019755719838570997 positive
+active parking 0.001968877886363188 negative
+parking machine 0.001951176483058688 positive
+park app 0.0019458946990642883 positive
+parking easy 0.0019356046349082324 positive
+mobile number 0.0019343909669997375 negative
+parking companies 0.0019055353559192078 positive
+cost parking 0.001896826631032666 positive
+parking apps 0.0018929168002995496 positive
+app great 0.0018835916124212066 positive
+first parking 0.0018824153920748137 positive
+worked fine 0.0018793288152400942 negative
+use parking 0.0018782603714135775 negative
+recommend app 0.0018773005292081985 negative
+another app 0.0018405296673454947 positive
+app like 0.0018265309427448664 positive
+payment card 0.0018113491833448411 negative
+mobile phone 0.0018013690841255697 negative
+per parking 0.0017953340655660422 positive
+debit card 0.001789300248313361 negative
+got fine 0.001785027173939936 negative
+still get 0.0017753071975340582 negative
+parking areas 0.001774852077166329 negative
+parking lots 0.00176681519577833 positive
+apple pay 0.0017574556878336483 negative
+end time 0.0017535968640298386 negative
+time park 0.0017395352177627043 positive
+never use 0.0017363535755007718 negative
+worked great 0.001724056626058166 positive
+e mail 0.0017223603562215384 positive
+ticket machine 0.0017205381577586854 positive
+excellent app 0.0017166635919868168 positive
+right away 0.0017108087826667052 positive
+best parking 0.0016988478758606486 positive
+open app 0.0016933115507921728 negative
+app still 0.0016730662567570787 negative
+old one 0.001661307838670356 positive
+urbis mobile 0.0016467137618369338 negative
+app charges 0.001638076524044098 positive
+app find 0.001636312633766375 negative
+downloaded app 0.0016194553399308228 positive
+good idea 0.0016189916764960432 negative
+take care 0.0016151424593817535 positive
+want park 0.0016151187864846387 positive
+expensive parking 0.0016146253261544127 negative
+works like 0.0016052602512295281 positive
+otherwise good 0.0015966781173392503 positive
+car parked 0.0015962083978403863 positive
+per month 0.0015834888305880388 negative
+way pay 0.001553092457284284 positive
+works flawlessly 0.0015507742071175993 positive
+something went wrong 0.0015431793135682922 negative
+great service 0.0015415026502453792 positive
+hour parking 0.0015408722132527633 positive
+text message 0.0015392272022180641 positive
+make sure 0.0015345881091368677 positive
+time get 0.0015318574983140135 positive
+used easypark 0.0015298625151566536 positive
+time parking 0.0015296101298981893 positive
+fantastic app 0.0015217387550662442 positive
+app working 0.0015196751497934232 positive
+finish parking 0.001514212475563976 positive
+parking also 0.0015101463615054258 positive
+app worked 0.00150188535408336 positive
+start stop 0.0014864044313293095 negative
+nothing works 0.0014825993579494988 positive
+charge parking 0.0014799755424532348 negative
+new parking 0.0014782275286221538 positive
+gps location 0.0014778215883906284 negative
+two cars 0.0014746142038993906 negative
+time pay 0.0014734900409394474 negative
+parking code 0.0014685230755436237 positive
+parking costs 0.0014628310808674808 positive
+street parking 0.001462827122258246 negative
+even better 0.0014588394243665555 positive
+parking pay 0.0014567786115378854 positive
+app makes 0.001453972646998645 positive
+app made 0.0014524579212073676 negative
+another parking 0.0014475766057149022 negative
+money back 0.0014469160378193572 positive
+easy clear 0.001430718938258144 positive
+excellent application 0.0014289765654487115 positive
+receipt email 0.0014229380948123855 positive
+would great 0.0014088181798858318 positive
+app used 0.0014026680238219574 positive
+app longer 0.0013996008043309725 negative
+pay extra 0.001393516199454811 positive
+look parking 0.0013829760904618441 positive
+app user 0.0013787023651836519 negative
+way park 0.0013782081377922033 positive
+works really 0.0013693693497513018 positive
+app would 0.0013662983516925025 positive
+app also 0.0013561075520538296 positive
+back car 0.0013559809702521084 positive
+parking button 0.0013535267188377836 positive
+extend time 0.0013476598154186822 positive
+absolutely great 0.00134714179005382 positive
+really well 0.0013438877223563724 positive
+parking without 0.001340245849514322 negative
+car parks 0.0013379570556440509 positive
+update app 0.0013349173158076941 positive
+latest version 0.0013346416533548914 negative
+several years 0.0013343456163974572 positive
+absolutely brilliant 0.0013224122316002917 positive
+get ticket 0.0013038749305576832 positive
+started parking 0.001285526018390661 negative
+user interface 0.0012820528662033598 positive
+save money 0.0012698509254846562 positive
+amount parking 0.0012642070187880486 positive
+think app 0.0012627539901016714 positive
+every time park 0.0012606334945307613 positive
+two hours 0.0012588204548541226 positive
+app got 0.0012568790308047266 positive
+parking use 0.001251215272545587 positive
+love app 0.0012492590256860787 positive
+last time 0.0012479813480321116 negative
+used parking 0.0012431836975844766 positive
+well done 0.0012303925775246287 positive
+app open 0.0012271470337471566 positive
+something went 0.0012229835858420996 positive
+easy convenient 0.0012105505622288066 positive
+useful app 0.001198733969368714 positive
+looks like 0.001198037547803025 positive
+makes life 0.0011962122831617526 positive
+awesome app 0.0011751502560435887 positive
+get rid 0.001172090388745479 positive
+camera parking 0.0011623325578578219 positive
+charges commission 0.0011607594354100094 positive
+pay parking fee 0.0011607058002849125 positive
+nice able 0.0011597541805034104 positive
+easy parking 0.0011545142999320683 positive
+seems like 0.0011498288958554828 positive
+time parked 0.001145879405939859 positive
+license plate 0.0011433953398196544 positive
+electric car 0.001137803868262635 positive
+expensive use 0.00113590045346494 positive
+highly recommend 0.001121527431809365 positive
+give stars 0.0011177172503020667 negative
+previous version 0.0010957733872405705 positive
+card information 0.0010895259583596527 positive
+life easier 0.0010866062763615974 positive
+easy way 0.0010799147001463055 positive
+use easy 0.0010747945094040754 positive
+parking garage 0.0010670567144056783 positive
+saves money 0.001061519159391982 positive
+app never 0.001043740284046433 positive
+best parking app 0.001035617856462196 positive
+one star 0.0010353600818866486 positive
+simple easy 0.0010288247603095016 positive
+highly recommended 0.0010286059811442144 positive
+great application 0.001028059464641909 positive
+app really 0.0010275671605200329 positive
+previous app 0.0010263293859926175 positive
+change parking 0.0010145684079912879 positive
+parked car 0.00101213770319742 negative
+promotional code 0.001003456372609078 positive
+good service 0.0010013872026505939 positive
+parking times 0.0009988924934284818 positive
+card payment 0.000991018130613748 positive
+app app 0.0009864063970615458 positive
+easy app 0.0009783548563986827 positive
+get error 0.0009524961292453668 negative
+parking attendant 0.0009521577376635618 negative
+credit card number 0.0009458913211072017 negative
+get car 0.0009427532346532266 positive
+work well 0.0009413922942231797 positive
+able use 0.0009334479200609119 negative
+time expires 0.0009259707904007493 positive
+look parking meter 0.0009155096664786734 positive
+carry coins 0.0009126130411475494 positive
+makes parking 0.000908575686070865 positive
+free charge 0.0009063905302644966 positive
+new app 0.0009019307006366507 positive
+quick easy 0.0008992608668766752 positive
+pay much 0.0008981939628141493 positive
+way pay parking 0.0008952117877195434 positive
+time used 0.0008919466894616385 positive
+money parking 0.0008916686728254914 positive
+card number 0.0008843658454985091 positive
+time running 0.0008836544355047088 positive
+mobile city 0.0008833375404219321 negative
+app long 0.0008729475701240882 negative
+use code 0.0008703989042022453 positive
+credit cards 0.0008651870961180647 positive
+time time 0.0008484280081701455 negative
+otherwise great 0.0008469648835127397 positive
+started using 0.0008408316083531846 positive
+apple watch 0.000834527768617861 positive
+time app 0.0008339172872217257 positive
+handy app 0.0008195932153429928 positive
+well functioning 0.000819571467379188 positive
+enter code 0.0008147451973799955 positive
+app one 0.0008109813074237298 negative
+lot money 0.0008049926277063666 negative
+app first 0.000791925120807089 negative
+e g 0.0007765157558891053 positive
+time need 0.0007762763658942532 positive
+registration number 0.0007734794556868861 positive
+spinning wheel 0.0007669021231310728 negative
+promo code 0.0007639438218095732 positive
+everyday life 0.000754076876645038 positive
+actual parking 0.0007448454985294075 positive
+contact customer 0.0007362303812598179 positive
+time runs 0.0007235392298440972 negative
+time wheel 0.0007222858939524647 positive
+app need 0.0007127072297475813 positive
+time without 0.0007083824110882743 positive
+time spent 0.0007022445314836727 positive
+push notifications 0.0007008307873838205 positive
+convenient app 0.0006917949263950852 positive
+extend parking time 0.0006905147510979547 positive
+would nice 0.0006795490548558578 positive
+parking much 0.0006677224707293193 positive
+worked flawlessly 0.0006630832227036616 positive
+parking period 0.0006535443183604616 positive
+parking paid 0.0006534636109934458 positive
+add time 0.0006506320919901183 positive
+without problems 0.0006442890077252224 positive
+would good 0.0006408337967206799 positive
+super happy 0.0006406863361818313 positive
+need look 0.0006294544109269641 positive
+works easy 0.0006191504304017495 positive
+nice easy 0.0006162230385457712 positive
+park car 0.0006150705992047981 positive
+free parking code 0.0006113670061597995 positive
+app uses 0.0006112429730170272 positive
+app super 0.0006011867219269151 positive
+time money 0.0006007406425812771 positive
+app works well 0.0005979355948632762 positive
+coins car 0.0005932923547499126 negative
+parking euros 0.0005863195336001503 positive
+app saved 0.0005768993103432828 positive
+always works 0.000568504836511819 positive
+lot time 0.0005626330757503964 positive
+use really 0.0005613100261574128 positive
+parking car 0.0005590161512993624 positive
+means payment 0.0005558620631535841 positive
+area number 0.000553823723710017 positive
+first parking free 0.0005481143204366617 positive
+works really well 0.0005435085730446755 positive
+coins parking 0.0005388581616178298 positive
+e free parking 0.0005257820687744127 positive
+easy use app 0.0005255425847604792 positive
+always worked 0.0005240225264355436 positive
+old version 0.000520071732149364 positive
+easy pay 0.0005118906632189536 positive
+set parking 0.0004985708533863666 positive
+made parking 0.00048572935936316695 positive
+enter parking 0.0004849353924605195 positive
+parkman app 0.0004794132328763757 positive
+time easy 0.0004738818684956939 positive
+phone parking 0.00046453291102173784 positive
+great easy 0.0004431197994290395 positive
+code free 0.0004093854540407588 positive
+really convenient 0.00040740155549658916 positive
+super simple 0.00040564853095257535 positive
+app pay parking 0.0004044668929393934 positive
+actual parking time 0.00040280208147619266 positive
+get first 0.00039332996670939167 positive
+made easy 0.00038295304655884294 positive
+app takes 0.0003806296678907116 positive
+good thing 0.0003795651737120411 positive
+got parking 0.0003711162172456609 positive
+app without 0.00036932203971010857 positive
+e free 0.00036655635370612616 positive
+turn wheel 0.00036551469618711864 positive
+get euros 0.0003562030176904383 positive
+easy straightforward 0.00034333476327753806 positive
+comfortable easy 0.00031693646429356126 positive
+increase parking 0.00031624389839543396 positive
+next parking 0.00030271801283237627 positive
+use pay 0.0002971437333077222 positive
+old app 0.0002915344594967631 positive
+code free parking 0.0002564574290684345 positive
+use good 0.00025502138071895167 positive
+increase parking time 0.00025177141274741993 positive
+e parking 0.0002488602411667541 positive
+parking money code 0.00024714393031049895 positive
+discount code 0.0002447371126671197 positive
+money code 0.00023450458066491564 positive
+easy use application 0.0002171938244887043 positive
+code get 0.0002069002173025907 positive
+easy extend 0.000202883969304534 positive
+car app 0.0001982421774114903 positive
+application easy 0.00018922096553006414 positive
+good code 0.0001875191374720776 positive
+app easy use 0.0001862943683003642 positive
+app ever 0.00018372212286486185 positive
+code e 0.0001782921089149784 positive
+time code 0.00017788077626300792 positive
+transaction fee 0.00016777891369492565 positive
+good easy use 0.00016635670591776854 positive
+payment machine 0.00016524132657438968 positive
+code parking 0.00015787807493343456 positive
+makes life easier 0.0001568580941821952 positive
+parking time code 0.00014314106395716235 positive
+get e 0.00013576216698099657 positive
+really good app 0.00011964097068606752 positive
+parking much easier 0.00010703700994082271 positive
+parking e 9.275766652988362e-05 positive
+super easy use 8.516840209987325e-05 positive
+really handy 8.34331771653063e-05 positive
+well easy 7.986718431607954e-05 positive
+code q 7.714933670028314e-05 positive
+get e free 6.926379288955899e-05 positive
+app free 6.233394866589907e-05 positive
+easy use good 5.475175200791246e-05 positive
+app code 5.288654826562048e-05 positive
+euros free 5.138091954152985e-05 positive
+use promotional code 4.8313562348333044e-05 positive
+clear easy 4.249612596978188e-05 positive
+use promotional 3.851066028564755e-05 positive
+saves time 3.3720351289787206e-05 positive
+really easy use 2.3828996561178177e-05 positive
+easy use easy 2.372010770676884e-05 positive
+euros free parking 2.1301671316776723e-05 positive
+code r 1.740991881420445e-05 positive
+code k 1.6547448190901777e-05 positive
+e parking money 1.4154119728563573e-05 positive
+convenient application 1.355856043074883e-05 positive
+good app code 1.3325285651973311e-05 positive
+get first parking 1.2751301084441091e-05 positive
+free parking euros 1.1516776216481134e-05 positive
+code p 5.452881778864777e-06 positive
+use works 5.201716383069428e-06 positive
+application code 4.8717638219581e-06 positive
+easy use works 4.76441900523532e-06 positive
+great app easy 2.962261676769545e-06 positive
+great app code 2.9598536735153634e-06 positive
+code get free 2.8403343288475413e-06 positive
+receive free 2.4547058467005757e-06 positive
+code c 1.7965425988964112e-06 positive
+app free parking 1.3190055961268768e-06 positive
+get euros free 1.0095663110944913e-06 positive
+another free 7.812721262768493e-07 positive
+well easy use 4.169210919745275e-07 positive
+receive free parking 4.1119518849596626e-07 positive
+
+====================evaluate==================
+
+1¡¢metrics£º
+
+[[  53  483]
+ [  49 1371]]
+
+2¡¢precision recall f1-score£º
+
+              precision    recall  f1-score   support
+
+    negative       0.52      0.10      0.17       536
+    positive       0.74      0.97      0.84      1420
+
+    accuracy                           0.73      1956
+   macro avg       0.63      0.53      0.50      1956
+weighted avg       0.68      0.73      0.65      1956
+
+
+3¡¢oob_score£º
+
+0.7325147993860995
+
+====================n-gram evaluate==================
+
+
+The top  10 elements, their importance number and class
+
+free parking time euros 0.046659007505703363 positive
+free parking money e 0.03853991032231265 positive
+get free parking euros 0.02834300809700769 positive
+something went wrong 0.01572744661717046 negative
+every time park 0.013833695656213764 negative
+even though paid 0.011979256564451429 positive
+free parking code e 0.011969140803439485 positive
+app easy use 0.0119149752280858 positive
+e park application 0.008698451438281355 positive
+nearest parking meter 0.008253310918679098 positive
+
+The complete list of elements' importance number and class
+
+free parking time euros 0.046659007505703363 positive
+free parking money e 0.03853991032231265 positive
+get free parking euros 0.02834300809700769 positive
+something went wrong 0.01572744661717046 negative
+every time park 0.013833695656213764 negative
+even though paid 0.011979256564451429 positive
+free parking code e 0.011969140803439485 positive
+app easy use 0.0119149752280858 positive
+e park application 0.008698451438281355 positive
+nearest parking meter 0.008253310918679098 positive
+latest update broke 0.008109883568606955 negative
+allow stop parking 0.007648466384968353 negative
+app completely useless 0.007638868446370853 negative
+change payment method 0.007587612823141275 negative
+free parking app 0.007580216640055681 positive
+sms park app 0.007576916320304518 negative
+new app downloader 0.007529126390246309 positive
+app user friendly 0.007440556171419749 negative
+u get free parking 0.007379152405082197 positive
+every time open 0.007162058833814754 negative
+keep good work 0.007135080805395597 positive
+best parking app 0.007029083759501744 positive
+download use promotional code 0.006998258180806762 positive
+first parking free euros 0.006991847665404355 positive
+works quite well 0.006891631141144149 positive
+e park app 0.006852870268828256 negative
+phone number verification 0.0067977781695670245 negative
+pay parking fee 0.006748247994430535 negative
+long want park 0.006745747373705776 negative
+go back car 0.0067422223433339515 negative
+would nice able 0.006460140191073887 positive
+good functional app 0.006415062749388225 positive
+oops something went 0.006113581401482927 positive
+remember stop parking 0.005888833943593181 negative
+super easy use 0.005749901334289963 positive
+extend parking lot 0.005696530682970609 positive
+code free parking 0.00568363075034634 positive
+get parking money 0.0056524826396070395 positive
+every time try 0.005604329095687737 positive
+get euros free parking 0.005574368140174268 positive
+extra pay app 0.005453139006634233 positive
+flawlessly easy use 0.005366237967349304 positive
+soon balance runs 0.005351125480620556 negative
+parking money code 0.00523222464237926 positive
+parking time longer 0.0052321252292605305 negative
+e park account 0.005197022874086485 negative
+really good app 0.0050127833028185765 positive
+contact customer service 0.004970714821886644 positive
+free parking promotional code 0.00488365911467449 positive
+takes long time 0.0048176187676417384 negative
+get parking ticket 0.0047350951208460865 positive
+parking zone code 0.004606309401805086 negative
+contacted customer service 0.004535289086847218 negative
+use discount code 0.004473853748775444 positive
+parking much easier 0.004406908923263882 positive
+use app pay 0.004400735628468806 positive
+actual parking time 0.004316655255122442 positive
+intuitive easy use 0.004239756445188621 positive
+look parking meter 0.00421052492052162 positive
+mobile phone parking 0.0041032020752658025 negative
+e free parking time 0.004079061037394747 negative
+paid parking fee 0.0039474070856671435 positive
+good app easy 0.003830707230470295 positive
+extending parking time 0.003821685690205935 negative
+something goes wrong 0.0037729047489525303 negative
+license plate number 0.0037671696361659714 positive
+parking app easy 0.003743139720912166 positive
+good app code 0.0036617496861634053 positive
+park easy park 0.00355436923605637 positive
+pay time parked 0.0034289416777396626 positive
+parking ticket machine 0.0033929719152633294 negative
+free parking time front 0.0033870540497809476 positive
+application works well 0.0033502249417915186 positive
+v free parking 0.0033399964646946036 positive
+pay time actually 0.0033397121478595192 positive
+way handle parking fees 0.003333317874769408 positive
+migrate e park 0.0033130923420231113 positive
+e park easypark 0.0032864161444809224 positive
+credit card number 0.003244940137880466 negative
+used easy park 0.0031898433110101147 negative
+parking using app 0.003170306052935462 negative
+addition parking fee 0.003158076646986387 negative
+credit card info 0.0031510293218944456 negative
+per parking process 0.0031465172791268784 negative
+used app years 0.0031356998905766337 positive
+parking time code 0.0031311005234408757 positive
+use promotional code 0.0030819872055247747 positive
+using app years 0.003069250902834702 positive
+top parking fee 0.0030533002698273025 negative
+oops something went wrong 0.0030396997429796733 negative
+epark much better 0.003010115549296172 positive
+find parking meter 0.0029736804347385436 positive
+app works great 0.002949189702991788 positive
+app worked fine 0.0029238841436149284 negative
+works well helsinki 0.0029126425321315506 positive
+remove credit card 0.002903386888055133 negative
+easy use always 0.0028826068776293583 positive
+get e parking 0.002866070079790301 positive
+pay time park 0.002844569197462565 positive
+easy use reliable 0.0028381978438385856 positive
+start parking button 0.0028354610475085098 negative
+easy use best 0.0027972735157236928 positive
+app really good 0.0027925882132893765 positive
+fee per parking 0.002788608683939903 negative
+previous e park 0.002761512076434424 positive
+credit card details 0.0027493755337620273 positive
+easy use convenient 0.0027150046444051356 positive
+app several years 0.002707980237626624 negative
+pay parking use 0.002707927645411447 negative
+application easy use 0.0026938187446956165 positive
+start parking process 0.002666704000611079 positive
+used app pay parking 0.0026634618096468576 positive
+call customer service 0.0026590882929016925 positive
+used several years 0.0026382157340631763 negative
+really easy use 0.0026170413003056402 positive
+use application get 0.002577624633560191 positive
+e parking free 0.002558956574029327 positive
+easy use app 0.002542101292722637 positive
+extend end parking 0.002532501115439425 positive
+time without visiting 0.002499389839115396 positive
+comfortable easy use 0.002487341882744396 positive
+poor customer service 0.002477824071894324 negative
+searching parking meter 0.002442068380435236 negative
+sant joan despi 0.002423006082961179 negative
+practical easy use 0.0023967668877341013 positive
+used app several 0.0023957466812011535 positive
+used first time 0.0023874543434143193 positive
+great app code 0.0023830453567028525 positive
+app works perfectly 0.0023603191928364253 positive
+useful easy use 0.002358946576799933 positive
+otherwise good app 0.0023580950392573037 negative
+money discount code 0.0023549247074795576 negative
+start stop parking 0.002352963019574337 positive
+app pay parking 0.002338837680025501 positive
+great app discount 0.002326720089047419 positive
+pay parking meter 0.002312443677212132 positive
+pay parking fees 0.0023122537291042893 positive
+saves time money 0.002283839418500489 positive
+one best apps 0.0022544954105313607 positive
+application worked well 0.0022535476373669143 negative
+easy fast way 0.002227321548052719 positive
+parking time expires 0.0022162973765394 positive
+parking time running 0.0022139889176071284 positive
+app works well 0.002211599353817256 negative
+euros parking money 0.0022041416214447266 negative
+tried several times 0.002200171001853225 negative
+hope gets fixed 0.0021670781059216484 positive
+response customer service 0.0021568194739639414 positive
+makes parking easier 0.002156660326312765 positive
+convenient easy use 0.0021553736499412912 positive
+get money back 0.002154828586320483 positive
+h get free 0.00215254903394581 positive
+get parking time 0.0021490433507394173 positive
+would good could 0.002131985804916457 positive
+good easy app 0.002102575972729119 positive
+soon balance ends 0.002083852367613079 negative
+set parking time 0.002078686396959234 negative
+free parking money promotional 0.0020684112099056333 positive
+easy use good 0.0020473667387452942 positive
+app makes parking 0.0020036058590350496 positive
+use free parking 0.0019927694528159155 positive
+easy use free parking 0.0019897342340995587 positive
+easy pay parking 0.001989150761103239 positive
+would like know 0.0019839781386795457 negative
+makes life easier 0.001980146560464485 positive
+car registration number 0.0019783978903686193 positive
+app long time 0.0019645793983449566 positive
+find parking space 0.0019599204177887953 positive
+good easy use 0.0019476839792652036 negative
+free parking money 0.0019469062142107093 positive
+increase parking time 0.0019062644751160875 positive
+pay credit card 0.0019019645676103614 positive
+pay time stand 0.0018780275082965583 positive
+satisfied easy use 0.00187627983669269 positive
+e park much 0.001866953097497733 positive
+get error message 0.0018634197142086836 positive
+e parking money 0.001853566748589227 positive
+best thing happened 0.001842247017153544 positive
+works great easy 0.0018406629485568052 positive
+saved lot money 0.001838384151668873 positive
+worst app ever 0.0018374259393669418 positive
+pay time spend 0.0018357256640750103 positive
+easy use great 0.001824753172145656 positive
+even use app 0.0018141655776278318 negative
+last time use 0.00181322113789349 negative
+h free parking 0.0017997314262466787 positive
+time use app 0.0017855598087485906 positive
+easy convenient use 0.0017817570160017732 positive
+need look coins 0.0017815761850385468 positive
+credit card app 0.0017607049807374243 positive
+simple easy use 0.001751173485940243 positive
+start new parking 0.0017451857074567046 positive
+time open app 0.0017291591380454111 positive
+start end parking 0.0017192973631597508 positive
+good easy fast 0.0017123135230889513 positive
+find area code 0.001696719934570588 positive
+able use app 0.0016905546575188585 positive
+way pay parking fees 0.0016902389815390418 positive
+works easy use 0.0016373002091701787 positive
+app first time 0.0016281190201678205 positive
+easy use need 0.0016196729515453735 positive
+fast easy use 0.0016023749943948904 positive
+pay two vehicles 0.0015905191720284643 negative
+new parking ticket 0.001584731438744532 positive
+parking time extended 0.001551679687112483 positive
+happy easy use 0.00155026812796447 positive
+change e park 0.001539116647795707 positive
+free parking money code 0.0015377064481030423 positive
+next parking free 0.0015247315463048448 positive
+end parking time 0.0015112514154143918 positive
+makes parking much 0.0015014084925656299 positive
+incredibly good app 0.0014975680337419306 positive
+fee using app 0.0014895747811628885 positive
+easy park app 0.0014296910373476893 positive
+best invention ever 0.00142791479326702 positive
+go vending machine 0.001417132706200417 positive
+want free parking money 0.0013995957443265125 positive
+easy use works well 0.0013986484831537355 positive
+saves lot time 0.0013894362340456695 positive
+using easy park 0.0013740002732474856 positive
+parking time parking 0.0013703587990699455 positive
+one free parking 0.0013699752292546871 positive
+well free parking time 0.0013568472258059776 positive
+credit card information 0.0013454843345632598 positive
+parking time mobile 0.001344005211346476 positive
+clear easy use 0.0013414284216441991 positive
+great app discount code 0.0013329894164140535 positive
+parking time without 0.0013305662681059075 negative
+easy use parking app 0.0013281335495207922 positive
+go parking meter 0.0013250171670422465 negative
+short term parking 0.0013186369766514704 positive
+since last update 0.0013137731642196612 positive
+easy fast reliable 0.00130589868284873 positive
+easy comfortable use 0.001298007092440915 positive
+easy use nice 0.0012909374770552111 positive
+never use app 0.0012875612304476271 positive
+makes parking much easier 0.0012707496202835177 positive
+e park change 0.0012505237577629686 positive
+forget stop parking 0.0012447227594163742 positive
+get euros free 0.0012378976191445331 positive
+go back epark 0.001225305869444646 positive
+time parking lot 0.0012210959094262185 positive
+pay parking ticket 0.0012202093573957392 positive
+car look parking 0.0012165834051745907 positive
+set end time 0.0012011481250552031 positive
+got back car 0.0011983956478652136 positive
+good app works 0.00118029355118103 positive
+way pay parking 0.0011642242015219857 negative
+works well free parking 0.0011582190070786242 negative
+good app free 0.0011412692903336893 positive
+two parking spaces 0.0011292691247883266 positive
+last time used 0.0011106960892574244 positive
+able stop parking 0.0011093013230828687 positive
+end parking period 0.001086301356178449 positive
+find parking spaces 0.0010710572140155785 positive
+code free parking time 0.001070335205560224 positive
+euros free parking time 0.0010660839178465433 negative
+need carry coins 0.0010630287561013895 negative
+e park easy 0.001059194935476346 negative
+h get free parking 0.001056820383401657 positive
+pay actual parking 0.0010320374975736383 positive
+easy app use 0.001031488309641185 positive
+easy use pay 0.001027305515184464 positive
+easy use practical 0.0010204391894625621 positive
+max free parking 0.0010155269593834734 positive
+free first parking 0.0010118123931661584 negative
+extend parking time 0.0010100561779581476 negative
+pay actual parking time 0.0009951333156267186 positive
+works like train 0.000985405109691013 positive
+use promo code 0.0009823178760467674 positive
+makes life much 0.0009823164429060478 positive
+good app easy use 0.0009798349013738238 negative
+app works fine 0.0009727671180594136 positive
+pay time spent 0.0009721973298306768 positive
+works like charm 0.0009721303044973713 positive
+easy use recommend 0.0009646258036843796 positive
+get another free 0.0009614970950994785 positive
+parking code c 0.0009608020639531606 positive
+f free parking time 0.0009464348569078826 positive
+works well easy use 0.0009435555885830638 positive
+app much better 0.000940486278644053 positive
+like train toilet 0.0009386722125836176 positive
+user friendly app 0.000934137058996294 positive
+used e park 0.0009158109780701586 negative
+free parking code 0.0009096851299955 positive
+definitely best parking app 0.0009079649554856019 positive
+app makes life 0.0009076919378534069 positive
+parking works great 0.0008952108987265137 positive
+easy extend parking time 0.0008942519216981584 positive
+called customer service 0.000846919422915433 positive
+euros free parking money 0.00081668349896924 positive
+way back car 0.0007956343248145221 positive
+everyday life easier 0.0007855733386707003 negative
+easy way park 0.000780709313589452 positive
+use works well 0.0007804411840245388 positive
+e free parking promotional 0.0007690243543448449 positive
+get first parking 0.0007681477626682283 positive
+used app pay 0.0007642428710208482 negative
+make life easier 0.0007555811031228354 positive
+free parking time code 0.0007530444976922107 positive
+always worked flawlessly 0.000747484256378931 positive
+parking app easy use 0.0007158327951849387 positive
+first last time 0.000708090204824673 positive
+car parking lot 0.0006989581124237212 positive
+parking via app 0.0006927527531477876 positive
+e free parking 0.0006911855741140632 positive
+functional application code 0.0006708926017515642 positive
+easy use intuitive 0.0006675046387663431 positive
+pay parking app 0.0006597875072061287 positive
+ten free parking times 0.0006504015852484528 positive
+many parking fines 0.0006399741256296159 positive
+free parking spaces 0.0006382549524975887 positive
+parking time app 0.0006197640026675797 positive
+get first parking free 0.0006186094327288265 positive
+first parking free 0.0006162619836392449 positive
+ten free parking 0.0006092976977461067 positive
+get free parking 0.0006069926018175826 positive
+new parking lot 0.0005971604492604639 negative
+pay parking time 0.0005906856003112385 positive
+parking time time 0.0005858964235459422 positive
+parking area code 0.0005856323817966875 positive
+easier pay parking 0.0005796893678000129 positive
+works well easy 0.0005756741614758268 positive
+highly recommend parkman 0.0005522627309831899 positive
+makes everyday life easier 0.000535518290369001 positive
+pay time need 0.0005350492664091174 positive
+good free parking 0.0005346610649331101 positive
+free parking code c 0.0005344599416521364 negative
+want extend parking 0.0005337106876523647 positive
+worked flawlessly easy 0.0005247391952737438 positive
+parking free parking 0.0005227021539571075 positive
+get free parking code 0.0005215295807063007 positive
+able extend parking 0.000519991239755335 positive
+use application use 0.0005073657933592715 positive
+parking code p 0.000502246840820158 positive
+works well code 0.0005022157280362025 positive
+hour parking time 0.0004987159991237301 positive
+free parking time 0.0004949632607439895 positive
+easy extend parking 0.0004948161013552933 positive
+app super easy 0.0004906810172265235 positive
+using e park 0.00048680696717942243 positive
+way handle parking 0.0004857946515508874 positive
+parking time enter 0.00048466357737360957 positive
+every time use 0.0004842813329932541 positive
+one worst apps 0.0004774649607401943 positive
+k get free 0.000473366701665094 positive
+press start parking 0.00046274735022373956 positive
+parking without go 0.0004468195964612198 positive
+parking money e 0.0004442444136425001 positive
+always worked well 0.00044223024490516266 positive
+well promotional code 0.00042009794954415974 positive
+easy use code 0.0004170787327482231 positive
+app pay time 0.0004169587229858709 positive
+another free parking 0.0004150395594809194 positive
+parking promotional code 0.00041434076436004034 positive
+absolutely great app 0.00039829011133110344 positive
+got parking ticket 0.0003902574963254441 positive
+way pay parking fee 0.00035840495101962144 positive
+park much easier 0.00033973075168770584 negative
+without visiting car 0.00033262778801545427 positive
+app discount code 0.00030833449105171254 positive
+great app easy 0.000304937202013669 positive
+life much easier 0.0002947796232612222 positive
+makes everyday life 0.00028867077883818143 positive
+great app works 0.00027797419023930294 positive
+code another free parking 0.0002766850910998844 positive
+use parking app 0.00026589348025603157 positive
+code another free 0.0002640874688384711 positive
+makes life much easier 0.0002609760232495098 positive
+great app easy use 0.00025451141746174737 positive
+use another app 0.00025335939120092136 negative
+easy use parking 0.00022169792648673868 positive
+easy use application get 0.00021274990203544127 positive
+euros free parking 0.00021095353765977976 positive
+app promotional code 0.00020616753271495921 positive
+receive free parking 0.0001991234787359187 positive
+great easy use 0.0001824779461513644 positive
+works every time 0.00018118470065081862 positive
+money first parking 0.00018001273164593517 positive
+free parking new 0.00017818437077671027 positive
+parking money e code 0.00017067489967345433 positive
+use app use 0.000169376520634281 negative
+parking time easy 0.00016687624712391022 positive
+easy use application 0.000166501383441001 negative
+significantly better competitor 0.00015886506721706086 positive
+code get free parking 0.00014455415188978517 positive
+code get free 0.00014174979098887153 positive
+code get euros 0.000141440798907453 positive
+easy use clear 0.0001357297708959351 positive
+code get euros free 0.00012228609929418191 positive
+get free parking time 0.00011523722692186534 positive
+get another free parking 0.00011475394092526212 positive
+app free parking 0.00011079906815455351 positive
+convenient application code 0.00011074051556031495 positive
+parking use code 0.00011039046759746227 positive
+works promotional code 0.0001084687166544507 positive
+download app use 0.00010509042173554025 positive
+really good easy 0.00010410582995664885 positive
+phone gps parkman 0.0001026051918361448 positive
+code e parking 0.00010100932791883593 positive
+parking free euros 9.66484179222838e-05 positive
+e park worked 9.017742022119999e-05 positive
+download use promotional 8.978820123173249e-05 positive
+parking free max 8.718851989999987e-05 positive
+use pay time 7.311722851135624e-05 positive
+code get first 7.182394522196848e-05 positive
+app really easy 7.003730640314988e-05 positive
+money great app 6.858711803368127e-05 positive
+maximum parking time 6.623342596620285e-05 positive
+e free parking money 6.294496297980202e-05 positive
+application free parking 5.7535167804259986e-05 positive
+use vending machine 5.693548584074638e-05 positive
+easy use really 5.4961584423840754e-05 positive
+good app free parking 5.329843607816985e-05 positive
+code get first parking 5.199779861102184e-05 positive
+receive free parking money 5.169209773729922e-05 positive
+receive free parking time 5.1615894501931814e-05 positive
+money promotional code 4.731918820003972e-05 positive
+parking money promotional code 4.6073343204846945e-05 positive
+much worse previous 4.0516216041891296e-05 positive
+app free parking code 3.2612495482811944e-05 positive
+easy use works 3.260910405765988e-05 negative
+code e free parking 3.225260232945927e-05 positive
+good customer service 3.150896420007425e-05 positive
+first time use 2.7273809197562918e-05 positive
+convenient application free 2.572488769580249e-05 positive
+r free parking 2.466142309782121e-05 positive
+easy fast use 2.334703237679042e-05 positive
+parking code e 2.256387357767931e-05 positive
+use easy park 2.2546122620802984e-05 negative
+easy use free 2.230623026350352e-05 positive
+free parking promotional 2.221370126279565e-05 positive
+parking money promotional 2.1905365603608285e-05 positive
+parking time without visiting 1.8641003701746e-05 positive
+works like train toilet 1.626934682552399e-05 positive
+code get e parking 1.6028735693649375e-05 positive
+easy use easy 1.584790869017134e-05 positive
+app really easy use 1.4488092535653086e-05 positive
+half hour parking 1.4385459941510151e-05 positive
+parking app used 1.4282997526246812e-05 positive
+get e free parking 1.3098200012845108e-05 positive
+u get free 1.2768881918861877e-05 negative
+free parking max 1.1037961921306947e-05 positive
+max parking time 1.0272639631311537e-05 positive
+really well easy use 8.382685806650517e-06 positive
+code e free 8.095662931960139e-06 positive
+discount first parking 7.550415615791442e-06 positive
+r get e free 7.300324494141897e-06 positive
+code get e 7.296105337207564e-06 positive
+r get e 2.7824658057623233e-06 positive
+first time used 2.6907522711352274e-06 positive
+pre code get 2.5743381754056807e-06 positive
+code get e free 1.8631955237865838e-06 positive
+well functioning application 9.793877820882772e-07 positive
+f code free 7.276022633595292e-07 positive
+extra use app 3.580568679718689e-07 positive
+well functioning app 2.5434158240313396e-07 positive
+free parking worth 2.5087511560922204e-07 positive
+parking time front 7.388701690373726e-08 positive
+r get free 0.0 positive
+r free parking money 0.0 positive
+q get free parking 0.0 positive
+q get free 0.0 positive
+promotional code get 0.0 positive
+handle parking fees 0.0 positive
+parking app works 0.0 positive
+parking free charge 0.0 positive
+free parking euros 0.0 positive
+first parking free max 0.0 positive
+another free parking time 0.0 positive
+works well free 0.0 positive
+works really well 0.0 positive
+f code free parking 0.0 positive
+f free parking 0.0 positive
+parking time euros 0.0 positive
+use code get 0.0 positive
+well free parking 0.0 positive
+use code get free 0.0 negative
+money e code 0.0 positive
+two vehicles time 0.0 positive
+best parking app used 0.0 positive
+get free parking money 0.0 positive
+code k get 0.0 positive
+code k get free 0.0 positive
+convenient application free parking 0.0 positive
+definitely best parking 0.0 positive
+get e free 0.0 positive
+r get free parking 0.0 positive
+seems good free parking 0.0 positive
+want free parking 0.0 positive
+seems good free 0.0 positive
+free parking times 0.0 positive
+registering use code 0.0 positive
+really well easy 0.0 positive
+app makes easy 0.0 positive
+really good easy use 0.0 positive
+app free parking time 0.0 positive
+well easy use 0.0 positive
+good parking app 0.0 positive
+free parking e 0.0 positive
+
+The print result is saved as txt
+
+
+====================evaluate==================
+
+1¡¢metrics£º
+
+[[ 274  262]
+ [ 180 1240]]
+
+2¡¢precision recall f1-score£º
+
+              precision    recall  f1-score   support
+
+    negative       0.60      0.51      0.55       536
+    positive       0.83      0.87      0.85      1420
+
+    accuracy                           0.77      1956
+   macro avg       0.71      0.69      0.70      1956
+weighted avg       0.76      0.77      0.77      1956
+
+
+3¡¢oob_score£º
+
+0.7708835781626836
+
+====================n-gram evaluate==================
+
+
+The top  10 elements, their importance number and class
+
+easy use 0.03429590565220254 positive
+free parking 0.03139300766138104 positive
+e park 0.02482625600761047 negative
+error message 0.016138071816993515 negative
+bad app 0.013752202462304332 negative
+use app 0.009909585812596686 negative
+parking time 0.009354184832674677 positive
+error code 0.009185510986686619 negative
+wrong parking 0.00893653092155993 negative
+parking money 0.008820648153337267 positive
+
+The complete list of elements' importance number and class
+
+easy use 0.03429590565220254 positive
+free parking 0.03139300766138104 positive
+e park 0.02482625600761047 negative
+error message 0.016138071816993515 negative
+bad app 0.013752202462304332 negative
+use app 0.009909585812596686 negative
+parking time 0.009354184832674677 positive
+error code 0.009185510986686619 negative
+wrong parking 0.00893653092155993 negative
+parking money 0.008820648153337267 positive
+parking lot 0.00876750620968081 positive
+customer service 0.008410984156934085 negative
+free parking time 0.008369384693603845 positive
+great app 0.008241253247836089 positive
+stop parking 0.007748117770772852 negative
+works great 0.007689461849590139 positive
+good app 0.007389712910225686 positive
+pay parking 0.006997562640432348 negative
+completely useless 0.006963814693770337 negative
+phone number 0.006864725211498286 negative
+even though 0.006806846790773826 positive
+credit card 0.006401970317328521 positive
+works perfectly 0.006350236591054325 positive
+easy park 0.0062595503682087265 positive
+connection error 0.005987965982695766 negative
+every time 0.005693345225099461 negative
+parking meter 0.005640788772859166 negative
+terrible app 0.005124915787141403 negative
+car park 0.005060695042655539 negative
+paid parking 0.00489255506416523 positive
+free parking money 0.004871078997906527 positive
+stopped working 0.004866650986821928 negative
+app useless 0.0048323597377010075 negative
+works well 0.004818617573465909 positive
+would like 0.004705493301503283 positive
+much easier 0.004572931711524691 positive
+worst app 0.004564329372493811 negative
+pay app 0.004563269795457495 negative
+waste time 0.00446256211688504 negative
+internet connection 0.004418158240219571 negative
+several times 0.004393469920137038 positive
+area code 0.004391984822932525 negative
+vending machine 0.0043806509873623315 negative
+app unfortunately 0.004363913155241101 negative
+latest update 0.004362392850388374 negative
+time longer 0.004322742623329328 negative
+useless app 0.004251747868784306 negative
+good easy 0.004223066518476138 positive
+parking fee 0.004215858952208403 positive
+parking app 0.004136999947813874 positive
+start parking 0.004067627511031298 positive
+get free 0.0040605659604907715 positive
+parking space 0.004020799854480961 positive
+use application 0.004009618007794914 negative
+using app 0.003981532975841662 negative
+soon balance 0.003934528940130472 negative
+easy fast 0.003703647713782887 positive
+get free parking 0.0036912278274202903 positive
+extend parking 0.003665965126420959 positive
+much worse 0.0036655953836096894 negative
+parking spaces 0.00365028504766892 positive
+set time 0.0035847445288053714 negative
+app works 0.003568254563202539 positive
+super easy 0.003564372540285819 positive
+best app 0.0034911076452734543 positive
+download app 0.003400483962179726 negative
+payment method 0.0033728234548239793 negative
+tariff group 0.0033717713373532924 negative
+never use 0.0033697395117177386 negative
+parking process 0.003266103514847701 negative
+app longer 0.0032367550559546554 negative
+find parking 0.0032157986506615864 negative
+parking zone 0.0031616131908640322 positive
+pay fine 0.0030890086706247145 negative
+vending machines 0.003067490233786359 negative
+parking started 0.003066499596030505 negative
+new version 0.0030511342115812213 negative
+put ticket 0.0030431479330820686 negative
+long time 0.0030242927985050755 negative
+charge commission 0.00301499883130666 negative
+much expensive 0.003012503981328813 negative
+use another 0.002999071080365472 negative
+last update 0.0029699927727275723 negative
+pay time 0.0029622050912205965 positive
+parking ticket 0.0029478868313193847 negative
+app even 0.00292773939152742 negative
+per month 0.0029232061145622146 negative
+user friendly 0.0029192435893670436 positive
+forced switch 0.002880643631758978 negative
+half hour 0.0028725850926598173 negative
+app used 0.002836453752245021 negative
+parking area 0.0028305694945389647 negative
+forced use 0.0027945009724673737 negative
+time use 0.0027875905394682708 negative
+app want 0.0027460973716735156 positive
+want pay 0.0026864716597316063 negative
+much better 0.002671444451758525 positive
+go back 0.0026699549673267335 negative
+get money 0.002663648556720763 negative
+happy app 0.002649167463652831 positive
+two cars 0.002636677250684828 negative
+longer use 0.0026242360138165307 negative
+cancel parking 0.002612952428333809 negative
+still get 0.002609877853305569 negative
+app use 0.0025905773462625136 positive
+really good 0.0025892973106007417 positive
+works fine 0.0025714217886164564 negative
+really easy 0.0025692039626616964 positive
+easypark app 0.0025691440228698442 negative
+end parking 0.002566373423896221 positive
+worked well 0.002534911232717223 positive
+parking free 0.002467754640942023 positive
+paying parking 0.0024548591941778992 negative
+payment parking 0.0023469709238898963 positive
+parking get 0.0023449833237658103 negative
+parking meters 0.0023440482882200213 negative
+app charges 0.0023264492967679344 negative
+user interface 0.002318302522637269 negative
+previous one 0.002313928197672645 positive
+like app 0.0022987916012832915 negative
+app work 0.0022950451394852353 positive
+mobile number 0.002293369055770903 negative
+network errors 0.0022672069649692737 negative
+app parking 0.0022619217433993803 positive
+installed app 0.0022482670794500325 negative
+use parking 0.00223682334683893 negative
+parking zones 0.0022296326124455743 negative
+time running 0.0022290580829069494 positive
+new parking 0.002225920318964468 negative
+error messages 0.002219275111348194 negative
+sms park 0.0022126986213625516 negative
+parking easy 0.002209914260904608 positive
+parking fees 0.0021979641766266766 positive
+parking fines 0.0021951982162079346 positive
+longer works 0.0021875985882972306 negative
+new update 0.002177096262923177 negative
+get receipt 0.002176041932077489 negative
+blue zone 0.0021692101123664716 negative
+park car 0.0021600071360258384 negative
+via app 0.0021593782063725423 negative
+parking without 0.0021540561797692838 negative
+application works 0.0021497863346541996 negative
+use easypark 0.0021417941641905403 negative
+find another 0.002129840847899949 negative
+since last 0.0021228041795841573 negative
+text message 0.002113998868016323 positive
+used parking 0.002090051132100062 positive
+super practical 0.0020883816249770287 positive
+promotional code 0.00207664698587897 positive
+parking companies 0.0020717842351755463 positive
+take responsibility 0.0020689757551999796 negative
+something went 0.0020627207678019484 negative
+come back 0.0020585610698898075 negative
+ongoing parking 0.0020578442633520876 negative
+mobile phone 0.002057184044643107 negative
+super good 0.002043935279538018 positive
+park app 0.002030581203253243 positive
+addition parking 0.002026641845460391 negative
+cost parking 0.002024165946227652 positive
+app good 0.002024064737216168 positive
+great service 0.002016727607665887 positive
+cell phone 0.002010416743836482 negative
+went wrong 0.0020085595338809243 negative
+every day 0.0019853727993989754 positive
+receipt email 0.0019777369449433587 positive
+parking apps 0.001962418186932308 negative
+got fine 0.0019336910231433524 positive
+using easypark 0.0019258646961939616 positive
+app great 0.0019226413209609508 positive
+time park 0.0019160054213647002 positive
+app several 0.0019042898442946882 negative
+car parks 0.0019004809969961247 positive
+extend time 0.0018771726044870631 positive
+app worked 0.001870661795615213 negative
+get fine 0.001865106172523241 negative
+update app 0.0018449527777209195 positive
+user experience 0.0018425653815882048 positive
+used app 0.0018391604344805796 positive
+would great 0.0018332619997591371 positive
+something went wrong 0.0018329002464199829 negative
+pay extra 0.0018250517280201913 negative
+want park 0.001805181725993166 negative
+next day 0.001799693766499347 negative
+app still 0.0017907789851517963 negative
+per parking 0.0017886197966404543 positive
+parking even 0.0017885685086106548 positive
+city council 0.0017870522112390821 positive
+two hours 0.0017813996304120992 positive
+app made 0.0017758572128491834 negative
+app easy 0.0017752637415024447 positive
+used easypark 0.0017643819978719877 positive
+time get 0.0017583110315850298 negative
+another app 0.0017500251030138762 positive
+app working 0.0017438071764119165 negative
+app get 0.0017402568517397399 negative
+park easy 0.001734450167443371 negative
+parking pay 0.0017315011626820923 positive
+app makes 0.0017265842925071931 positive
+get parking 0.001718912153006079 positive
+card information 0.0017078062175265663 negative
+parking also 0.0016937088667510925 positive
+get rid 0.001692279751865902 positive
+time parked 0.001690739761628396 negative
+best parking 0.0016895258877846256 positive
+apple pay 0.0016879498550145882 negative
+back car 0.0016775546036119362 positive
+excellent app 0.0016591763470009558 positive
+finish parking 0.0016588873258997802 positive
+get car 0.0016388150155564095 positive
+parking costs 0.0016324336183418952 negative
+parking much 0.00162595492361702 positive
+parking lots 0.0016251421557326587 positive
+service fee 0.0016239956573335277 negative
+first parking 0.0016228950102060507 positive
+expensive use 0.001617128699983754 positive
+app user 0.0016081758613600047 negative
+parking machine 0.0016046243487582259 positive
+nothing works 0.0015925554945876105 positive
+easy good 0.0015872968537485503 positive
+worked great 0.0015811002505746721 positive
+works like 0.0015728922596854448 positive
+way pay 0.0015647444909941371 positive
+camera parking 0.001563007316076513 negative
+open app 0.0015550163737302369 positive
+debit card 0.001552556373654547 negative
+time wheel 0.001546034697311916 negative
+easy app 0.0015444425087850879 positive
+charge parking 0.0015373565606794243 negative
+first time 0.0015190674617374961 positive
+lot time 0.0015188454333697633 positive
+app like 0.0014981821133167894 positive
+useful app 0.0014930534930229955 positive
+parking payment 0.0014824243435531117 negative
+end time 0.0014823097606603093 negative
+give stars 0.0014816180712846317 positive
+start stop 0.0014776786021982143 negative
+parking code 0.0014623720396206364 positive
+hour parking 0.0014610498013235475 positive
+looks like 0.0014603394451698861 negative
+expensive parking 0.0014537953289832045 negative
+push notifications 0.0014440827503060594 negative
+look parking 0.0014281378753268554 negative
+previous app 0.0014260265851618117 positive
+love app 0.0014180169591321396 positive
+fantastic app 0.0014140193008618208 positive
+card number 0.0014002318642462352 positive
+payment machine 0.0013995119372554364 negative
+street parking 0.0013940186107694597 negative
+app without 0.0013864639159470232 positive
+registration number 0.001378250060700794 positive
+app got 0.0013717148855054973 positive
+really well 0.0013555549745720202 positive
+app also 0.0013471356319689118 positive
+good application 0.001344006050357619 positive
+absolutely brilliant 0.0013387610873399438 positive
+every time park 0.0013339718535192277 positive
+spinning wheel 0.0013322628821574914 negative
+great application 0.0013231210754838948 positive
+previous version 0.001315338469557952 positive
+car parked 0.001314424318005482 positive
+otherwise good 0.0012903319617006959 positive
+charges commission 0.0012860890782390208 positive
+apple watch 0.001283153383240412 negative
+time used 0.0012824781800157984 positive
+right away 0.001275994422817706 positive
+parking areas 0.001275822080061838 negative
+get error 0.0012739098310131064 negative
+amount parking 0.0012689542774390523 positive
+would good 0.0012653045338203905 positive
+absolutely great 0.0012585135064898665 positive
+super app 0.0012413649160535505 positive
+well done 0.0012406562369790325 positive
+pay much 0.001235772078292576 positive
+parking fine 0.001231571678302968 positive
+another parking 0.0012284426440026914 positive
+app open 0.0012272190360920364 positive
+saves money 0.0012263925943145166 negative
+makes life 0.0012184694761105553 positive
+even better 0.0012108652814408565 positive
+recommend app 0.0012036480376082946 positive
+worked fine 0.0011999473065691319 negative
+license plate 0.001199390983113957 negative
+latest version 0.0011844883411282169 negative
+easy clear 0.0011747240636443422 positive
+old version 0.0011486103459576976 negative
+new one 0.0011438262059939807 positive
+easy convenient 0.0011347380291141524 positive
+take care 0.0011335804284553158 positive
+life easier 0.0011233248521041028 positive
+makes parking 0.001115427035820058 positive
+money back 0.0011135015364990134 negative
+lot money 0.0011084898734446916 negative
+app would 0.0011058282502578879 positive
+save money 0.0011047315654188748 positive
+app app 0.0010982864136315756 positive
+time parking 0.0010908556762827763 positive
+easy parking 0.0010840749339560691 positive
+ticket machine 0.0010726178273038095 positive
+always works 0.0010708452378060582 positive
+app really 0.001053968315707682 positive
+think app 0.0010529276439105427 positive
+use easy 0.0010508366860739599 positive
+many times 0.001050360123908446 positive
+parking paid 0.001047781149707542 negative
+make sure 0.0010312051167301864 positive
+urbis mobile 0.001024016987229425 positive
+e mail 0.001016776227163588 positive
+time without 0.0010161836577599415 positive
+mobile city 0.0010100442506467081 negative
+time try 0.0010019892935258276 positive
+app free 0.0010000693927815943 positive
+super happy 0.000996627214915617 positive
+parking garage 0.0009961021277807443 positive
+several years 0.0009934494134522507 positive
+free charge 0.0009747442253270398 positive
+one star 0.0009566505161221336 positive
+awesome app 0.0009475545240417136 positive
+get ticket 0.0009472238146731571 positive
+new app 0.0009415949609297611 positive
+coins parking 0.0009401871360447376 positive
+started parking 0.00093093786771412 positive
+way park 0.0009231315370427066 positive
+app pay 0.0009201356764062243 positive
+app need 0.0009196645343670534 negative
+time spent 0.0009185223644703974 negative
+parking use 0.0009143610393566935 positive
+gps location 0.0009141782349219659 positive
+payment card 0.0009137968138474358 negative
+time app 0.0009031572285953454 positive
+highly recommended 0.0009020333541622918 positive
+work well 0.000900204782824068 positive
+area number 0.0008978283081864334 positive
+last time 0.0008949782479007716 positive
+nice able 0.0008795687736006043 positive
+credit cards 0.0008788764229302323 positive
+add time 0.0008769364623545082 positive
+works really 0.0008728558391399363 positive
+time time 0.0008721679222291484 positive
+old one 0.0008659084867303564 positive
+good idea 0.0008654958141150386 positive
+best parking app 0.0008556863060173892 positive
+highly recommend 0.0008548179646871391 positive
+app one 0.0008502526604958051 negative
+quick easy 0.0008500111373897386 positive
+e g 0.0008487375541840474 positive
+started using 0.0008482425385214684 positive
+app never 0.000846407439870663 positive
+way pay parking 0.0008244783353193137 positive
+parking tickets 0.0008238722927736137 negative
+change parking 0.0008210173960494334 positive
+code get 0.000820082459599042 positive
+turn wheel 0.0008194924876118254 positive
+parking button 0.0008171956763966587 positive
+seems like 0.0008108131368907408 positive
+old app 0.0007895164234084032 positive
+excellent application 0.0007854372761585894 positive
+easy use app 0.0007843318788413749 positive
+carry coins 0.0007813840082297771 positive
+use code 0.0007683422667812361 positive
+promo code 0.0007642653162915694 negative
+electric car 0.0007572947388314851 positive
+app find 0.0007513794435184797 positive
+otherwise great 0.0007363909345253023 positive
+contact customer 0.0007248291071362559 positive
+credit card number 0.0007113748535735151 negative
+parking period 0.0007048884827244609 positive
+pay parking fee 0.0007033040102389916 positive
+actual parking 0.0007015019774309847 positive
+time runs 0.0007000872921417153 negative
+card payment 0.0006914804667772316 positive
+app super 0.0006833410170540891 positive
+need look 0.0006680711762549795 positive
+app first 0.00066063069774907 negative
+first parking free 0.000651779599971445 positive
+super simple 0.0006412123403149911 positive
+app saved 0.0006350796261209459 positive
+app uses 0.0006338907295024048 positive
+active parking 0.0006261682080615467 positive
+simple easy 0.0006244769345139463 positive
+nice easy 0.0006180410016720496 positive
+good service 0.0006149139147815452 positive
+free parking code 0.0006129945690578246 positive
+able use 0.0005944698972873883 positive
+parking times 0.0005763970184130409 positive
+coins car 0.000571208309214608 positive
+great easy 0.0005586659780521436 positive
+worked flawlessly 0.0005518328303473042 positive
+easy straightforward 0.0005495092460513695 positive
+everyday life 0.0005454117622055982 positive
+look parking meter 0.0005422713987980613 positive
+app works well 0.000540314478851473 positive
+works flawlessly 0.0005322696101469196 positive
+got parking 0.0005320943890005136 positive
+easy way 0.0005256624894649149 positive
+app long 0.000521845592851626 positive
+time need 0.0005205775854333429 positive
+easy pay 0.0005180216348905988 positive
+extend parking time 0.0005167517231379605 positive
+e free 0.0005160992572543597 positive
+works really well 0.0004940443840567289 positive
+e free parking 0.0004929885044692445 positive
+enter parking 0.0004852593077334696 positive
+transaction fee 0.00047881723225800485 positive
+always worked 0.0004740955629512246 positive
+would nice 0.00046854688519780614 positive
+parking euros 0.0004498255235587153 positive
+parked car 0.00044526390517121006 positive
+app takes 0.0004257848563808779 positive
+good thing 0.0004232206105950574 positive
+set parking 0.0004136470322766306 positive
+well functioning 0.0004073508345894914 positive
+parking car 0.00040642801328528836 positive
+get first 0.00040076693164105927 positive
+enter code 0.00039823449990624045 positive
+handy app 0.0003971079157269174 positive
+without problems 0.00039004961613879613 positive
+time expires 0.0003900084338092561 positive
+parking attendant 0.0003895407468317345 positive
+comfortable easy 0.0003895146888929353 positive
+next parking 0.00038238514486538537 positive
+app pay parking 0.00037297020384650226 negative
+downloaded app 0.000367823643337322 positive
+use really 0.0003600152535396957 positive
+phone parking 0.0003572042472253242 positive
+easy use application 0.0003403269292906225 positive
+actual parking time 0.00033872825759469395 positive
+really convenient 0.0003379897478969875 positive
+good code 0.0003376585508136343 positive
+money code 0.00033370713570087776 positive
+time money 0.00032796954950585407 positive
+saves time 0.0003210602088489805 positive
+money parking 0.00031789051421024907 positive
+code free 0.0003164855883509625 positive
+app ever 0.00031573681189595823 positive
+parking time code 0.00031479207652437456 positive
+increase parking time 0.00029876192784998124 positive
+means payment 0.00029119135410131847 positive
+increase parking 0.0002859680692935219 positive
+time pay 0.00027977386250674813 positive
+use pay 0.0002749937921975826 positive
+convenient app 0.0002708888440977601 positive
+get euros 0.0002647838861611777 positive
+code parking 0.00026389715222122854 positive
+made easy 0.00025537511881493046 positive
+e parking 0.0002427273906308517 positive
+app easy use 0.00024136281509181008 positive
+time code 0.00022545404832427586 positive
+code free parking 0.00022424994548006912 positive
+made parking 0.00021856361954622903 positive
+use good 0.00021403303818050908 positive
+convenient application 0.00020599473958858152 positive
+application easy 0.0002030140548936443 positive
+parkman app 0.00019829463759365117 positive
+get e 0.00019793314466740625 positive
+another free 0.0001896495810646122 positive
+time easy 0.00015665986259513084 positive
+car app 0.0001495175843342967 positive
+parking e 0.00014467755178899276 positive
+makes life easier 0.00013947803997837948 positive
+easy extend 0.00013690756950839107 positive
+easy use good 0.0001328492055921451 positive
+parking money code 0.0001279716790529432 positive
+clear easy 0.00012643408426075755 positive
+code q 0.00012073540912392685 positive
+well easy 9.178098453779433e-05 positive
+good easy use 9.070631759595615e-05 positive
+parking much easier 8.466591727624555e-05 positive
+app code 8.246846827535654e-05 positive
+super easy use 7.183996623984072e-05 positive
+e parking money 7.099796705480692e-05 positive
+get e free 5.44339566700482e-05 positive
+really good app 5.1411321572208755e-05 positive
+get first parking 5.0554829463632874e-05 positive
+code e 4.708243202849167e-05 positive
+really handy 4.677529372348119e-05 positive
+use promotional code 4.6515811447799034e-05 positive
+discount code 4.134023264717938e-05 positive
+code r 3.699513250397869e-05 positive
+code k 3.590145601145737e-05 positive
+easy use easy 3.1588550438481094e-05 positive
+euros free 2.9382601494609817e-05 positive
+really easy use 2.9303825406835648e-05 positive
+use promotional 2.340586706354978e-05 positive
+code p 2.3170576444932735e-05 positive
+good app code 1.476693923503337e-05 positive
+get euros free 1.211201761164607e-05 positive
+euros free parking 7.189191334406104e-06 positive
+code c 7.131410920101973e-06 positive
+easy use works 6.720163974844037e-06 positive
+receive free parking 5.564471878217748e-06 positive
+works easy 5.062005177174168e-06 positive
+code get free 4.588451081059633e-06 positive
+app free parking 2.874489686969867e-06 positive
+well easy use 2.7536531642760077e-06 positive
+application code 2.7272497345359255e-06 positive
+use works 2.67843528809341e-06 positive
+great app easy 2.152534945756164e-06 positive
+free parking euros 1.9796610554994396e-06 positive
+great app code 1.8566478329940902e-06 positive
+receive free 3.829003827012137e-07 positive
+
+The print result is saved as txt
+
+
+====================evaluate==================
+
+1¡¢metrics£º
+
+[[ 263  273]
+ [ 163 1257]]
+
+2¡¢precision recall f1-score£º
+
+              precision    recall  f1-score   support
+
+    negative       0.62      0.49      0.55       536
+    positive       0.82      0.89      0.85      1420
+
+    accuracy                           0.78      1956
+   macro avg       0.72      0.69      0.70      1956
+weighted avg       0.77      0.78      0.77      1956
+
+
+3¡¢oob_score£º
+
+0.7805305853979391
+
+====================n-gram evaluate==================
+
+
+The top  10 elements, their importance number and class
+
+easy use 0.033319838134034885 positive
+free parking 0.03310483470470803 positive
+e park 0.01762209288612923 negative
+customer service 0.012955059526219252 negative
+bad app 0.010579150094521948 negative
+works great 0.010502809387974352 positive
+great app 0.010242238501415821 positive
+parking lot 0.00975917411027395 positive
+parking time 0.00972638108444373 positive
+parking money 0.00937873669445818 positive
+
+The complete list of elements' importance number and class
+
+easy use 0.033319838134034885 positive
+free parking 0.03310483470470803 positive
+e park 0.01762209288612923 negative
+customer service 0.012955059526219252 negative
+bad app 0.010579150094521948 negative
+works great 0.010502809387974352 positive
+great app 0.010242238501415821 positive
+parking lot 0.00975917411027395 positive
+parking time 0.00972638108444373 positive
+parking money 0.00937873669445818 positive
+error message 0.009124754002854129 negative
+credit card 0.0090847814190332 positive
+error code 0.008841371936198607 negative
+use app 0.0077285262466577406 positive
+phone number 0.007699958142296011 negative
+good app 0.007673977512085298 positive
+terrible app 0.0072842886401524535 negative
+wrong parking 0.006713017489262833 negative
+paid parking 0.00648963086624565 positive
+completely useless 0.006353606602118894 negative
+works perfectly 0.006195722490092434 positive
+pay parking 0.006087112163075836 negative
+free parking time 0.005925366648140986 positive
+works well 0.0059184496122513 positive
+app unfortunately 0.005894337913000718 negative
+connection error 0.00588588891269041 negative
+easy park 0.005736158856363459 positive
+much worse 0.005718336661880481 negative
+start parking 0.005575095694089161 positive
+free parking money 0.005438071997577826 positive
+every time 0.005378795302648556 negative
+latest update 0.005289854858638924 negative
+worst app 0.0052571936952293605 negative
+would like 0.005089883446187909 positive
+using app 0.005088619706963946 negative
+parking meter 0.0050541269571299195 negative
+parking fee 0.004882142872548761 positive
+stop parking 0.004822221429196719 negative
+car park 0.004785565526531622 negative
+even though 0.004700631972538849 positive
+use application 0.004612878064405621 negative
+parking app 0.004558634569074772 positive
+new update 0.004475920778055188 negative
+waste time 0.004452125165651219 negative
+get free 0.004303209006330411 positive
+parking space 0.004285566516270141 positive
+app works 0.004240586454166039 positive
+payment method 0.004190277832810417 negative
+installed app 0.004162093246063617 negative
+area code 0.004145925020587507 negative
+forced switch 0.004061410313907672 negative
+super easy 0.003979505691596314 positive
+sms park 0.0038871085009302185 negative
+app useless 0.0038545528362081754 negative
+charge commission 0.003828843582427553 negative
+several times 0.0037449493374770433 negative
+much expensive 0.0036794058955584973 negative
+app even 0.00364930963469943 negative
+good easy 0.003645056819674532 positive
+blue zone 0.0035367314460874434 negative
+parking started 0.0035027327692035265 negative
+use another 0.0034804647955176226 negative
+worked well 0.003472813930862097 positive
+stopped working 0.0034714473563131846 negative
+user friendly 0.0034597388348870045 positive
+much easier 0.003448836100875668 positive
+set time 0.003417918414419287 negative
+parking spaces 0.003358360394014579 positive
+really good 0.003319578213021211 positive
+find another 0.003288319483788495 negative
+easy fast 0.0032812120248117377 positive
+city council 0.003276681698399381 negative
+useless app 0.003264821680929047 negative
+forced use 0.003195822334878182 negative
+previous one 0.0031538519636772045 positive
+parking ticket 0.0031417651728318065 negative
+first time 0.0031372291862205343 positive
+best app 0.003117071711019143 positive
+app still 0.003058191283792433 negative
+parking process 0.003055256812284044 negative
+time use 0.0030476281055478133 negative
+easypark app 0.003033722959935824 negative
+much better 0.003033344338175211 positive
+longer works 0.0029792981477094744 negative
+never use 0.002965333527377156 negative
+download app 0.0029416802472119834 negative
+happy app 0.0029334090319309914 positive
+get free parking 0.0029229178973605406 positive
+cost parking 0.002913530419501683 negative
+parking get 0.0028941656660170885 negative
+paying parking 0.002886006389290997 negative
+vending machine 0.0028597695727541144 positive
+new one 0.002857424144404984 negative
+extend parking 0.002855825773406725 positive
+pay fine 0.002805792120101146 negative
+using easypark 0.0027679490028625175 positive
+app work 0.002728948755881101 negative
+parking zone 0.002705405631997403 positive
+get receipt 0.0026777953124100685 negative
+app longer 0.002677791072651356 negative
+super app 0.0026775760344802456 positive
+app use 0.002676442083709885 positive
+long time 0.002672018384536927 negative
+recommend app 0.0026527234389837604 negative
+parking area 0.002652475938747312 negative
+first parking 0.0026170261552911646 positive
+addition parking 0.0025848285951062646 negative
+put ticket 0.002583248029225112 negative
+parking fines 0.002566783149340551 positive
+super practical 0.0025570940823930128 positive
+app made 0.0025105619658319684 negative
+end parking 0.00249521947991616 positive
+license plate 0.0024919931790432113 negative
+app good 0.002487229343560791 positive
+parking fees 0.0024771851555639855 positive
+expensive use 0.0024593398519725594 negative
+find parking 0.0024456539806263005 negative
+want pay 0.0024244888335369376 negative
+app charges 0.0024214078671290847 negative
+two cars 0.002418697489127864 negative
+soon balance 0.0024103669252297983 negative
+half hour 0.0023988537049409726 negative
+really easy 0.002398800587562292 positive
+camera parking 0.0023674881933682776 negative
+app used 0.002355494034338389 positive
+open app 0.002347971521898138 negative
+pay app 0.002331068680266443 negative
+time longer 0.0023281107142243563 negative
+come back 0.00232388765112266 negative
+next day 0.002322682209051756 negative
+parking easy 0.002316302771184295 positive
+pay extra 0.0023105572748376127 negative
+old one 0.0022994903787007218 negative
+worked great 0.0022967276485999872 positive
+time get 0.0022565075001149174 negative
+go back 0.0022410957747815083 negative
+last update 0.002231404121725499 negative
+app find 0.0022129123277601654 negative
+parking free 0.0022064743485590006 positive
+payment parking 0.002198048946704271 positive
+excellent app 0.0021819822961538725 positive
+previous app 0.0021508951347638376 positive
+text message 0.002134368542480421 positive
+new parking 0.0021321320886010086 negative
+still get 0.0021253911618658032 negative
+works fine 0.0021248635343743267 positive
+good idea 0.0021207251875156844 negative
+app parking 0.0020984720151005975 positive
+use parking 0.0020928018967027156 negative
+take responsibility 0.0020917421893967116 negative
+get parking 0.0020824468807724445 positive
+app easy 0.0020784656402659824 positive
+another app 0.002068987571178505 positive
+used app 0.0020685204086596707 positive
+app want 0.0020623636424195904 positive
+parking fine 0.002056304431218937 positive
+use easypark 0.0020454516933908775 negative
+parking zones 0.0020328817460373437 negative
+time parking 0.0020278377410280633 negative
+app pay 0.002024396213614593 negative
+start stop 0.002022811041798377 negative
+used parking 0.002020804584253854 positive
+latest version 0.002010537024864891 negative
+receipt email 0.0019953906536525233 positive
+mobile number 0.0019863391806939977 negative
+per parking 0.001977309537241927 positive
+pay time 0.0019690980817451075 positive
+parking apps 0.001963488104534802 positive
+app worked 0.00195719471704492 negative
+worked fine 0.0019552080109955182 negative
+park app 0.0019479614597509942 positive
+app several 0.0019456988765943603 negative
+get error 0.0019389181491491234 negative
+park car 0.0019378823047663963 positive
+extend time 0.0019369300556169838 positive
+parking meters 0.0019360384546616963 positive
+user experience 0.0019360311043538573 positive
+app great 0.0019198698801597195 positive
+like app 0.0019151508499204053 negative
+hour parking 0.0019145028751262807 negative
+works like 0.0019017570931849487 positive
+get car 0.00190017910014489 positive
+charges commission 0.0018979296000303041 negative
+easy clear 0.0018963811794386154 positive
+new version 0.0018846790212744698 negative
+per month 0.0018816514586192418 positive
+cancel parking 0.0018712649675084669 negative
+vending machines 0.0018190291167041643 positive
+easy good 0.0017920338756127745 positive
+registration number 0.0017917312590371626 positive
+old version 0.0017650484178244998 negative
+super good 0.0017609176012938575 positive
+back car 0.001759031119047974 positive
+ticket machine 0.0017469479264401503 positive
+time try 0.0017395726146258823 negative
+app like 0.001731390422143738 positive
+got fine 0.0017245259415002649 positive
+parking paid 0.0017054172024257139 negative
+payment machine 0.0017046531488179692 negative
+take care 0.0016969929311866946 negative
+fantastic app 0.001695883094329168 positive
+make sure 0.0016946503810146094 positive
+every day 0.0016886537106182101 positive
+parking code 0.0016754299087428013 positive
+tariff group 0.0016674749483236006 negative
+parking much 0.001660360558862905 positive
+time wheel 0.0016598149721883683 negative
+really well 0.0016461164163087422 positive
+nothing works 0.0016385565707475876 positive
+park easy 0.0016376252395484548 positive
+want park 0.0016310665487886565 negative
+turn wheel 0.0016215473863596284 positive
+apple pay 0.00162149043319558 positive
+e g 0.0016148779526240897 positive
+car parked 0.0016067734170429197 positive
+since last 0.001598341481960656 negative
+service fee 0.001596342248976615 negative
+app open 0.001594101042085002 positive
+many times 0.0015933953131171594 negative
+ongoing parking 0.0015738797976249377 negative
+finish parking 0.001560105397545469 positive
+even better 0.0015548905111425356 positive
+parking use 0.0015545439209450908 positive
+promotional code 0.001551366950690092 positive
+parking costs 0.001547343730796109 negative
+love app 0.0015469643979528025 positive
+last time 0.0015362296328858844 positive
+update app 0.0015330066985637153 positive
+street parking 0.001508257114747733 negative
+app working 0.0014996193635095458 negative
+able use 0.0014962997363138564 negative
+parking companies 0.0014928180971958568 positive
+via app 0.001491260097628286 negative
+parking machine 0.001486667302405344 positive
+end time 0.00148585861228892 positive
+e mail 0.0014834153405098255 positive
+way pay 0.0014768903183274404 positive
+parking payment 0.0014684842676212836 negative
+get money 0.0014535284149082373 negative
+parking lots 0.0014499941242795062 positive
+longer use 0.001444756108240845 positive
+parking without 0.0014442116677450146 negative
+parking tickets 0.0014430855200007597 negative
+mobile phone 0.0014366645515508565 positive
+get fine 0.0014339023418967853 negative
+parking garage 0.0014328331077157253 positive
+useful app 0.0014290575949484643 positive
+debit card 0.0014048381621562902 positive
+app app 0.001387872388837612 positive
+payment card 0.0013874903748828577 positive
+cell phone 0.0013735634611043285 positive
+expensive parking 0.0013680083359129216 negative
+would great 0.0013619817242644095 positive
+look parking 0.0013594576495467082 positive
+looks like 0.0013456210085552517 positive
+app makes 0.0013399811259158906 positive
+parking button 0.0013337319112735981 positive
+works flawlessly 0.0013199097290764025 positive
+think app 0.001318006145437028 positive
+car parks 0.0013175711310135104 positive
+amount parking 0.0013137834936067484 negative
+great service 0.0013125678241349913 positive
+highly recommend 0.001293241969802838 positive
+change parking 0.0012779342341498953 positive
+free charge 0.0012731022257391625 negative
+life easier 0.0012672725227907266 positive
+urbis mobile 0.0012667327451076184 positive
+makes parking 0.0012586828119847166 positive
+app first 0.00125515160594123 negative
+time parked 0.0012510562528947763 negative
+works really 0.0012423610685086176 positive
+parking even 0.0012364253226948905 negative
+card information 0.0012356351639565722 negative
+well done 0.001229344136559484 positive
+seems like 0.0012276731324048305 positive
+app need 0.0012247682379566925 positive
+good application 0.0012237170743539527 positive
+time park 0.0012180010988642675 positive
+app would 0.00121119458995403 positive
+absolutely great 0.0012027093514670529 positive
+apple watch 0.0012024907241348834 negative
+get ticket 0.0011844723709826717 positive
+two hours 0.001178128826075039 positive
+give stars 0.0011747820757887612 positive
+lot money 0.0011690724500571451 negative
+user interface 0.00116135137717803 positive
+app never 0.0011519160013454457 positive
+previous version 0.0011368319285755741 positive
+parking also 0.0011341266158633493 positive
+easy way 0.0011300851052462144 positive
+internet connection 0.0011229829312343086 negative
+app get 0.0011037459747364154 negative
+right away 0.0010972215781689925 negative
+charge parking 0.0010961066269621728 positive
+app free 0.0010943173578786421 negative
+excellent application 0.001093000415291411 positive
+gps location 0.001092013818267924 positive
+pay much 0.0010827485570941825 positive
+app also 0.0010701330850288323 positive
+new app 0.001062816245525404 positive
+save money 0.0010594744119504617 positive
+app uses 0.0010586293620739578 positive
+super simple 0.0010566062452072604 positive
+enter code 0.001051445151778584 positive
+without problems 0.0010452301255366985 positive
+several years 0.0010448659298035012 positive
+card number 0.0010289613262912476 positive
+parking areas 0.0010222368762392345 negative
+best parking 0.0010215372509288561 positive
+easy convenient 0.0010212121000011268 positive
+get rid 0.0010199173446362544 positive
+every time park 0.0010058211931543448 positive
+would good 0.0010046262370365694 positive
+something went 0.0009968999750473951 negative
+awesome app 0.000991452795493955 positive
+credit card number 0.0009874596354757998 negative
+app saved 0.0009830492783762278 positive
+otherwise great 0.0009786118269463644 positive
+time pay 0.0009758334358174432 negative
+network errors 0.0009752658946251766 negative
+app got 0.0009743289855979402 positive
+work well 0.0009687862295383459 positive
+otherwise good 0.0009648927735194085 positive
+downloaded app 0.0009416563618294517 positive
+app one 0.0009393433318932808 negative
+time used 0.0009313364299072925 positive
+card payment 0.0009303594677375588 positive
+lot time 0.0009252787001525651 positive
+one star 0.000906082736932635 positive
+push notifications 0.0009032960487914305 positive
+money back 0.0009028109853334516 positive
+error messages 0.0008978810062261253 negative
+code get 0.0008883871047663726 positive
+parked car 0.0008779523448411474 positive
+nice easy 0.0008738318381462056 positive
+add time 0.0008710205161309703 positive
+area number 0.000857638968656213 negative
+makes life 0.0008546530754641753 positive
+parking pay 0.0008535108444570461 positive
+contact customer 0.0008491733596398339 positive
+app really 0.0008461563280508537 positive
+time expires 0.0008385583430330408 positive
+promo code 0.0008371807195409268 positive
+active parking 0.0008347142846228076 positive
+use code 0.0008313919810189935 positive
+something went wrong 0.0008198231635053266 negative
+time money 0.0008137550016141594 positive
+carry coins 0.0008115940743822558 positive
+got parking 0.0008114271343814887 positive
+quick easy 0.0008098518772266876 positive
+best parking app 0.0008047926759970333 positive
+application works 0.000803626339008635 positive
+time time 0.0008025547247574043 positive
+works easy 0.0007823297926980151 positive
+parking period 0.0007795929013188673 negative
+another parking 0.0007792668255589794 positive
+saves money 0.0007792499412585996 positive
+app long 0.0007750470468210044 positive
+pay parking fee 0.0007501824865485164 negative
+parkman app 0.0007499421338888611 negative
+parking times 0.00074595785883148 positive
+easy parking 0.0007444630993313792 positive
+easy pay 0.000740028831253654 positive
+actual parking 0.0007349057364985219 positive
+went wrong 0.0007315232890851706 positive
+mobile city 0.0007211268645650625 positive
+free parking code 0.0007069753738292999 positive
+started using 0.0006763962757339935 positive
+app super 0.0006741149371711233 positive
+simple easy 0.0006676871369073077 positive
+time need 0.000656125533804004 positive
+time app 0.0006524013088669067 positive
+started parking 0.0006275982478559626 positive
+old app 0.0006271717531341894 positive
+easy use app 0.0006258444955529531 positive
+used easypark 0.0006135430809784413 positive
+highly recommended 0.0006110790002962917 positive
+way pay parking 0.0006078379591602473 positive
+well functioning 0.0006072698472922432 positive
+easy straightforward 0.0005949237434291799 positive
+works really well 0.0005935509790946651 positive
+easy app 0.0005932250867740056 positive
+worked flawlessly 0.0005882587640568008 positive
+time spent 0.0005755467318421772 negative
+parking car 0.0005743568463897144 positive
+coins car 0.0005696982141555497 positive
+easy use application 0.0005684210262566037 positive
+way park 0.0005610279699604815 positive
+spinning wheel 0.0005575505028010398 positive
+absolutely brilliant 0.0005575439260795333 positive
+need look 0.0005415107248638763 positive
+use really 0.000541441571379915 positive
+coins parking 0.000527403872472013 positive
+time easy 0.000527308357288721 positive
+nice able 0.0005205906173308176 positive
+e parking 0.0005134700722990997 positive
+first parking free 0.0005132307581714346 positive
+parking euros 0.0005082391927028569 positive
+transaction fee 0.0004949968402123381 positive
+always worked 0.0004894663045324363 positive
+use easy 0.00048562360099453986 positive
+app without 0.0004812330676049929 positive
+credit cards 0.0004800777429948491 positive
+increase parking time 0.000477818758221289 positive
+good service 0.0004776116241717478 positive
+parking attendant 0.0004745620999311647 positive
+comfortable easy 0.0004694521907021457 positive
+extend parking time 0.0004635188722906423 negative
+look parking meter 0.0004620656634140348 negative
+increase parking 0.000459722108196301 positive
+really convenient 0.0004568215230121969 positive
+everyday life 0.00044728880139184926 positive
+handy app 0.00044146009584597397 positive
+good thing 0.00043326599619239475 positive
+app user 0.00043165060895964953 positive
+e free 0.0004261690024409232 positive
+means payment 0.00042311901591238145 positive
+great easy 0.0004178301691399645 positive
+convenient app 0.00041247540153501003 positive
+time without 0.00041180538086194935 positive
+made parking 0.00039919649912546176 positive
+time running 0.00037911887579102354 positive
+app easy use 0.0003743234320918432 positive
+always works 0.0003628593838860486 positive
+code parking 0.00035705091303197796 positive
+get euros 0.0003504525774678375 positive
+makes life easier 0.0003504325522211143 positive
+app pay parking 0.00034724763377547103 negative
+made easy 0.00032866886057087124 positive
+electric car 0.00032625955677762663 positive
+money parking 0.0003226647786254365 positive
+enter parking 0.00031819568935568203 positive
+good code 0.00031369906342384985 positive
+phone parking 0.00030897517905994294 positive
+app takes 0.0002951109521603023 positive
+use pay 0.0002862849336355092 positive
+super happy 0.00028108750712474 positive
+great application 0.00027991412447889727 positive
+app works well 0.00027731169671370705 positive
+set parking 0.0002755196205793559 positive
+next parking 0.00027409345661028874 positive
+would nice 0.00026743902686347814 positive
+actual parking time 0.00025145570994074826 positive
+code free 0.00025138173346024963 positive
+code e 0.00023938264208310197 positive
+another free 0.00023793980392560355 positive
+money code 0.0002306258667416288 positive
+discount code 0.00022622189255643198 positive
+parking time code 0.00021937887276912913 positive
+code free parking 0.00021855273464415698 positive
+good easy use 0.00021798575051425756 positive
+saves time 0.0002137634987758356 positive
+time code 0.00021141437400691685 positive
+easy extend 0.00021025898760013842 positive
+convenient application 0.0001970754282888437 positive
+time runs 0.00019154696055462622 positive
+get first 0.0001824286238475719 positive
+use good 0.0001662141099677314 positive
+car app 0.00016051097019018982 positive
+really handy 0.00014902085145855463 positive
+get e 0.0001442697478529032 positive
+e free parking 0.0001383621048864461 positive
+easy use good 0.0001194089393295142 positive
+euros free 0.00011869672413386042 positive
+app ever 0.0001065851098617965 positive
+application easy 0.0001020160932623284 positive
+clear easy 9.200998960722759e-05 positive
+app code 7.999612385446402e-05 positive
+code q 7.973184281401271e-05 positive
+really good app 7.108107709712878e-05 positive
+get e free 6.432942450791839e-05 positive
+super easy use 5.690468723129136e-05 positive
+really easy use 5.473536379194082e-05 positive
+parking much easier 5.121354099554926e-05 positive
+well easy 4.871553287851857e-05 positive
+parking money code 4.629754492199455e-05 positive
+easy use easy 3.8205406896457335e-05 positive
+get first parking 3.716348093904455e-05 positive
+good app code 2.2770814969542792e-05 positive
+code r 1.6945009062023973e-05 positive
+app free parking 1.2961640137445001e-05 positive
+code k 1.2760811715288026e-05 positive
+well easy use 1.2590468099898873e-05 positive
+get euros free 1.2052832232877201e-05 positive
+use promotional 1.1585503985871545e-05 positive
+free parking euros 9.987971647715389e-06 positive
+e parking money 9.811237123859068e-06 positive
+parking e 6.969989714160092e-06 positive
+euros free parking 5.391719984064949e-06 positive
+use promotional code 5.290256723113881e-06 positive
+great app code 5.084494942049875e-06 positive
+use works 4.893679750898951e-06 positive
+easy use works 4.819910026224277e-06 positive
+code p 3.787727836185397e-06 positive
+great app easy 3.15922796688828e-06 positive
+application code 2.6348571314518052e-06 positive
+code c 1.3970963089678502e-06 positive
+code get free 6.723118121449358e-07 positive
+receive free parking 2.9393472082050314e-07 positive
+receive free 8.74856388848506e-08 positive
+
+The print result is saved as txt
+
+
+====================evaluate==================
+
+1¡¢metrics£º
+
+[[ 276  260]
+ [ 169 1251]]
+
+2¡¢precision recall f1-score£º
+
+              precision    recall  f1-score   support
+
+    negative       0.62      0.51      0.56       536
+    positive       0.83      0.88      0.85      1420
+
+    accuracy                           0.78      1956
+   macro avg       0.72      0.70      0.71      1956
+weighted avg       0.77      0.78      0.77      1956
+
+
+3¡¢oob_score£º
+
+0.7680333260249945
+
+====================n-gram evaluate==================
+
+
+The top  10 elements, their importance number and class
+
+easy use 0.03487796846179755 positive
+free parking 0.03441863172893243 positive
+e park 0.016887716174609466 negative
+bad app 0.013633348724121856 negative
+error message 0.011796718573637241 negative
+customer service 0.011010594282917095 negative
+parking time 0.010227911440701702 negative
+works great 0.009783082417790415 positive
+use app 0.009717356343286134 positive
+parking money 0.009606144248465327 positive
+
+The complete list of elements' importance number and class
+
+easy use 0.03487796846179755 positive
+free parking 0.03441863172893243 positive
+e park 0.016887716174609466 negative
+bad app 0.013633348724121856 negative
+error message 0.011796718573637241 negative
+customer service 0.011010594282917095 negative
+parking time 0.010227911440701702 negative
+works great 0.009783082417790415 positive
+use app 0.009717356343286134 positive
+parking money 0.009606144248465327 positive
+even though 0.009557675809495816 positive
+app useless 0.008956623744994988 negative
+parking lot 0.008575491355442244 positive
+completely useless 0.008143997079957202 negative
+wrong parking 0.008085970769917857 negative
+credit card 0.007867772090807839 positive
+phone number 0.00785221184096159 negative
+stop parking 0.0076821260832976475 negative
+pay parking 0.007324222772549222 negative
+free parking time 0.007297290110590339 positive
+great app 0.007291061048123897 positive
+parking meter 0.0067771656728659235 negative
+terrible app 0.00655802282380029 negative
+works perfectly 0.0063948689283007095 positive
+much worse 0.006164862148220423 negative
+easy park 0.005984676464941105 positive
+paid parking 0.0057685013784899665 positive
+every time 0.005628718769265071 negative
+stopped working 0.005599309494684854 negative
+using app 0.005387118151333896 negative
+start parking 0.005365412821151871 negative
+good app 0.0052265169157198295 positive
+works well 0.005022907022235853 positive
+worst app 0.0049319361174571625 negative
+forced use 0.004806678510259907 negative
+waste time 0.004734814667228359 negative
+would like 0.0046947149057043405 positive
+much easier 0.004635192770545882 positive
+car park 0.004551413946505783 negative
+forced switch 0.004427367578611887 negative
+connection error 0.004418976864961479 negative
+super easy 0.004399247379760559 positive
+free parking money 0.004391317057994201 positive
+new update 0.004207965390691734 negative
+parking fee 0.004193987439326145 positive
+parking space 0.0041593588185318 positive
+vending machine 0.004129852818115244 negative
+several times 0.004048606141610509 positive
+parking zone 0.004044447803529822 positive
+charge commission 0.0040417363076953455 negative
+error code 0.004034589878050358 negative
+area code 0.004023068699653228 negative
+soon balance 0.004015933450066093 negative
+parking app 0.004002587245626774 positive
+easy fast 0.003974285233896645 positive
+latest update 0.0038454650645281 negative
+get free 0.0038221995655527627 positive
+pay app 0.003819188829883564 negative
+parking without 0.003753056254423086 negative
+app unfortunately 0.0036637468952071804 negative
+blue zone 0.0036474211420794386 negative
+really good 0.003535701905874658 positive
+time use 0.0034268618484607624 negative
+error messages 0.0033756003055476834 negative
+half hour 0.003352140983375354 negative
+parking ticket 0.0032243441731570977 negative
+best app 0.0032096883592083706 positive
+get free parking 0.003200399623579752 positive
+many times 0.0031755749044166297 negative
+previous one 0.0030760680935046102 positive
+extend parking 0.003055301766367355 positive
+put ticket 0.0030331858282379113 negative
+payment method 0.0030221064500906146 negative
+longer works 0.0029781901039373396 negative
+charges commission 0.0029771612238224747 negative
+city council 0.002953729598241036 positive
+last update 0.002949077337409324 positive
+parking fees 0.0029360926495705414 positive
+first time 0.0029174695816217753 positive
+much expensive 0.0029172887903108264 negative
+parking process 0.002905985822648943 negative
+set time 0.002891100509936693 negative
+find parking 0.002858568630828752 negative
+app works 0.0028051862439599676 positive
+internet connection 0.0028014690505316652 negative
+use application 0.002790844490899869 negative
+parking meters 0.002783417223155554 positive
+first parking 0.0027615848403570215 positive
+service fee 0.0027544588273154197 negative
+super practical 0.002741203885096661 positive
+app great 0.0027275866300219723 positive
+app even 0.002716388143393341 negative
+parking area 0.0027133169745502347 negative
+user friendly 0.0027125737043279144 positive
+easypark app 0.0027086766389258186 negative
+used app 0.0026956646052718907 positive
+works fine 0.0026916498101835127 negative
+parking free 0.002690458554300058 positive
+much better 0.002654965296464981 positive
+go back 0.0026400573117653595 positive
+cost parking 0.00263225803278527 negative
+application works 0.0026284373099851378 negative
+time longer 0.002623410378654246 negative
+good easy 0.0026073776120144896 positive
+sms park 0.002597270807177179 negative
+paying parking 0.002585252674010304 negative
+parking get 0.002572053206746439 negative
+installed app 0.0025537784689285163 negative
+using easypark 0.0024882044473934373 positive
+parking spaces 0.002469951726395201 positive
+app still 0.0024483504924422846 negative
+vending machines 0.002435094935772872 negative
+get receipt 0.0024126160991359016 negative
+expensive use 0.0024118956475119636 negative
+happy app 0.002397832774738466 positive
+pay time 0.002375311238404482 positive
+excellent app 0.0023447334273041815 positive
+app work 0.0023344635169810866 negative
+mobile number 0.0023056107790242423 negative
+latest version 0.002301962619014848 negative
+worked well 0.0022983440089350935 positive
+app easy 0.0022918884031214973 positive
+park app 0.0022737697970606186 positive
+new one 0.0022690545927577205 negative
+worked fine 0.002268337348069389 negative
+still get 0.0022540030362775457 negative
+new version 0.002241416158470425 negative
+update app 0.0022307579876608267 positive
+never use 0.0021927746799578025 negative
+download app 0.0021613675124879423 negative
+time parking 0.002141164486634623 positive
+app want 0.002131609982481529 positive
+payment parking 0.0021312203612332994 negative
+every day 0.0021277199237518295 positive
+recommend app 0.0021240074990338522 negative
+come back 0.0021207556457948622 negative
+app parking 0.0021177763760509816 positive
+get fine 0.0021091976369465104 negative
+addition parking 0.002098774158291361 positive
+parking lots 0.0020780701593202566 positive
+easy good 0.0020701942453760155 positive
+app worked 0.002065190314841439 negative
+parking machine 0.0020423803448202525 positive
+get error 0.0020421986079148563 negative
+app working 0.0020343755370126507 negative
+apple pay 0.0020289681756125886 positive
+next day 0.002023178007764133 negative
+tariff group 0.002019888723988907 negative
+back car 0.0019776006163015713 positive
+would great 0.0019673827923596837 positive
+super app 0.0019661083244323597 positive
+get money 0.0019535099998319073 negative
+get parking 0.0019531854725042155 positive
+app like 0.0019454439358121943 positive
+parking code 0.0019436321997025085 positive
+app pay 0.0019392793302104622 negative
+end parking 0.0019345514429733432 positive
+parking even 0.001930679196591258 negative
+get ticket 0.001926381151487662 positive
+parking fines 0.0019230126946433131 positive
+app good 0.0019199028868962346 positive
+app made 0.0019198606597763664 negative
+pay fine 0.0019055476138775587 positive
+parking started 0.0018872167872167791 negative
+parking apps 0.0018869218154885605 negative
+want park 0.0018830859818957382 negative
+app charges 0.0018769567258604058 positive
+long time 0.0018734100305999838 negative
+went wrong 0.0018717028275138327 negative
+push notifications 0.0018712707030443367 positive
+pay extra 0.0018694595441461923 negative
+parking costs 0.0018679037480898724 negative
+really well 0.0018646422060462524 positive
+make sure 0.0018512546717841952 positive
+via app 0.0018499209317096859 positive
+since last 0.0018452684291626364 negative
+payment machine 0.001827016676609103 negative
+per parking 0.0018265032863401592 positive
+nothing works 0.0018235610517010365 positive
+use easypark 0.0018165203070964258 positive
+open app 0.0018103896659817504 negative
+use another 0.0018032469157126345 negative
+way pay 0.0018028733590024586 positive
+mobile phone 0.0018006227853934315 positive
+app used 0.001800288243463074 positive
+app use 0.0017966533832248302 positive
+extend time 0.0017943197077161356 positive
+find another 0.0017661011392876987 negative
+cancel parking 0.0017460546383076443 negative
+got fine 0.0017374986172241933 positive
+camera parking 0.0017363233876123024 negative
+app several 0.0017349180918311076 negative
+park easy 0.0017307172578807928 positive
+like app 0.0016994879429670373 negative
+works like 0.00169732081220648 positive
+two cars 0.0016895424079024525 negative
+e mail 0.001687790486983824 positive
+debit card 0.0016844709114883338 negative
+receipt email 0.0016735841478345192 positive
+time parked 0.0016712022536569278 negative
+easy clear 0.0016700290715525256 positive
+park car 0.0016603097054476356 negative
+use parking 0.0016596775470278512 negative
+parking pay 0.0016552586653843459 positive
+new parking 0.0016406501831094987 positive
+street parking 0.0016378894565803996 negative
+parking fine 0.0016301208268921074 positive
+parking companies 0.0016297912050621047 positive
+app one 0.0016153906507208003 negative
+even better 0.0016074290702740531 positive
+hour parking 0.001595870802033421 negative
+time try 0.0015898991692902987 negative
+love app 0.0015853233499826074 positive
+finish parking 0.001580754393075373 negative
+another app 0.0015730733037984045 negative
+something went 0.0015717765364079521 negative
+text message 0.0015714129920551467 positive
+fantastic app 0.0015710284844957343 positive
+card information 0.0015682238250916576 negative
+easy app 0.0015670523582458145 positive
+end time 0.0015636820739385814 positive
+absolutely brilliant 0.0015589914106032326 positive
+parking areas 0.0015571628523795436 negative
+network errors 0.0015445089644344967 negative
+longer use 0.0015432196129810665 positive
+looks like 0.0015405002656909135 negative
+get rid 0.0015320152485821714 positive
+area number 0.0015303693220028321 negative
+parking easy 0.0015231218807951568 positive
+take care 0.0015201577623698652 negative
+registration number 0.0015191062032773337 negative
+previous app 0.0015137422237281048 positive
+work well 0.001508095790978566 positive
+free charge 0.0014865036621552077 negative
+app find 0.0014861086996843912 negative
+time wheel 0.0014688019485319442 positive
+promotional code 0.0014680539939887771 positive
+expensive parking 0.0014648380079363148 negative
+save money 0.0014483855609584522 positive
+turn wheel 0.0014465963819406157 positive
+started parking 0.0014451638465923298 negative
+really easy 0.001434928427169431 positive
+time get 0.001434320978127018 negative
+user experience 0.001431912905795728 positive
+parked car 0.001431768180730666 negative
+per month 0.0014151558326872444 negative
+want pay 0.0014147706007311294 positive
+look parking 0.0014125223754581464 positive
+right away 0.001408611674674397 positive
+absolutely great 0.0014027658923179474 positive
+old one 0.001394210682271959 positive
+worked great 0.0013908542446318117 positive
+get car 0.001381136136982598 positive
+payment card 0.0013802324408764266 positive
+app would 0.0013713678216784777 positive
+license plate 0.001370140484219984 positive
+parking garage 0.0013690878913754003 positive
+parking button 0.0013670440293643972 negative
+saves money 0.0013669760132807068 negative
+useful app 0.0013467285187062502 positive
+something went wrong 0.0013434547544228267 negative
+ongoing parking 0.0013376589215844384 negative
+app open 0.0013349526444549694 positive
+change parking 0.0013213621017083897 positive
+good idea 0.0013174185675894588 negative
+parking paid 0.0013163923740976654 negative
+car parks 0.0012997015277051523 positive
+take responsibility 0.0012946684614768595 positive
+great service 0.0012938787908436504 positive
+card number 0.0012918546215835813 positive
+app really 0.0012824874799319394 positive
+parking tickets 0.0012766328718359702 negative
+cell phone 0.0012728502781047793 negative
+way park 0.0012648742880951491 positive
+excellent application 0.0012648148193732266 positive
+start stop 0.0012635967329850458 negative
+super good 0.0012571008397170313 positive
+parking zones 0.0012457745530510273 positive
+user interface 0.0012407307127551615 negative
+gps location 0.0012325015218515745 negative
+good application 0.0012286124101355171 positive
+ticket machine 0.0012277096347594477 positive
+would good 0.0012234599206413792 positive
+urbis mobile 0.0012231202516623056 positive
+app never 0.0012184278537310798 positive
+app app 0.001207400509285323 negative
+time runs 0.001204521105836083 negative
+use easy 0.001197243872475108 positive
+app makes 0.0011908734118745146 positive
+highly recommend 0.0011889599796332353 positive
+best parking 0.0011828839683140362 positive
+card payment 0.0011759480888067788 positive
+easy way 0.0011718572321116473 positive
+app also 0.001163937706883498 positive
+parking much 0.0011533449206274672 positive
+two hours 0.0011529683595541103 positive
+useless app 0.001143111597186767 negative
+lot money 0.0011387237236951532 negative
+great application 0.0011379352663041698 positive
+life easier 0.0011318101763333796 positive
+previous version 0.001110369858320594 positive
+makes parking 0.0010968002746399492 positive
+time park 0.001082682935444912 positive
+time pay 0.001075016883358237 negative
+app without 0.0010727567410539162 positive
+app saved 0.001070400246913893 positive
+last time 0.0010638120071293816 positive
+app free 0.0010587672537921919 negative
+apple watch 0.0010508330268685407 negative
+e g 0.0010347009705054572 positive
+makes life 0.0010210499616835503 positive
+credit cards 0.0010072042760285304 positive
+electric car 0.001001325803316654 positive
+coins parking 0.0009958245009746018 positive
+time used 0.0009844189320697286 positive
+works really 0.0009726988739160615 positive
+app user 0.0009663826636754719 negative
+pay much 0.0009373158632801843 positive
+used parking 0.0009287674364507421 negative
+app long 0.0009217039347576937 negative
+parking period 0.0009192860526603769 negative
+nice easy 0.000917716686234158 positive
+works easy 0.0009145997963757729 positive
+works flawlessly 0.000910296809791592 positive
+otherwise good 0.0009102653023862737 positive
+spinning wheel 0.0008874553446330966 negative
+time app 0.0008734229072080872 positive
+lot time 0.0008715517646160373 positive
+everyday life 0.00086815701082508 positive
+easy convenient 0.0008665040634244665 positive
+time expires 0.0008658277313149211 positive
+app got 0.0008534021520008463 positive
+new app 0.0008520668492117764 positive
+used easypark 0.0008433173992196383 positive
+way pay parking 0.0008412461436069743 positive
+highly recommended 0.0008346591177827099 positive
+time without 0.0008327968069553435 positive
+charge parking 0.0008269702054190261 positive
+pay parking fee 0.0008263293839425857 positive
+code get 0.0008252706021175221 positive
+old app 0.0008236099770494472 positive
+easy parking 0.0008129723017304182 positive
+app super 0.0007994148825498219 positive
+quick easy 0.0007984652465165698 positive
+old version 0.0007967371411042567 positive
+started using 0.0007945597997415646 positive
+app longer 0.0007917133426873999 positive
+parking use 0.0007875037903518387 positive
+several years 0.0007727250027796802 positive
+amount parking 0.000762235476447604 positive
+promo code 0.000761106051421326 positive
+got parking 0.0007573999727174595 positive
+parking times 0.0007526470286073037 positive
+handy app 0.0007506877092311702 positive
+app get 0.0007496551315359756 positive
+look parking meter 0.0007492838177017696 positive
+money back 0.0007484560366208958 positive
+simple easy 0.0007466653387884222 positive
+made easy 0.0007462829594756472 positive
+good service 0.00074620382815361 positive
+comfortable easy 0.0007426978475983873 positive
+app works well 0.0007347793523499206 positive
+otherwise great 0.0007318987165077531 positive
+contact customer 0.0007295271652601874 positive
+parking also 0.0007275533363677785 positive
+easy use app 0.0007157846312877246 positive
+super simple 0.0007143696669667563 positive
+able use 0.0007123562967714256 negative
+time running 0.0007019936904723204 positive
+without problems 0.0007012460399324253 positive
+app need 0.0007008822182647665 positive
+parking attendant 0.0006940927659055612 negative
+credit card number 0.0006932975401023698 negative
+mobile city 0.000688905315133883 positive
+carry coins 0.0006880560937468527 positive
+give stars 0.0006786025842323202 positive
+use code 0.0006698052537954718 positive
+nice able 0.0006509965986766722 positive
+would nice 0.0006496806543978553 positive
+time spent 0.0006474464941864645 negative
+actual parking 0.0006471061901952422 positive
+well done 0.0006438256404119543 positive
+add time 0.0006419712642318608 positive
+time money 0.0006383152347272976 positive
+think app 0.0006252789934986155 positive
+app uses 0.0006165394459114168 positive
+e free 0.0006157009639713662 positive
+need look 0.0006061402441066865 positive
+worked flawlessly 0.0006044286231293738 positive
+super happy 0.0006024965006873853 positive
+always worked 0.0005926658650062581 positive
+use really 0.0005902463093328149 positive
+best parking app 0.0005734707710416075 positive
+well functioning 0.0005714583455130596 positive
+time need 0.0005710596445938329 positive
+car parked 0.0005704707367428166 positive
+good thing 0.0005616622804382089 positive
+every time park 0.000556081685143483 positive
+free parking code 0.0005294839939096517 positive
+app first 0.0005154502333037247 positive
+easy pay 0.000514851515085628 positive
+made parking 0.0005112261795148592 positive
+downloaded app 0.000509568087315127 positive
+extend parking time 0.000505602065861856 negative
+first parking free 0.0005055301474290849 positive
+means payment 0.0005042615097294479 positive
+parking payment 0.000502123773166078 positive
+set parking 0.0005013693265870523 positive
+next parking 0.0004989039883053859 positive
+money parking 0.0004894723543530211 positive
+great easy 0.0004889807114818933 positive
+active parking 0.00048555524225457603 positive
+money code 0.00048209375459087644 positive
+time time 0.0004797511183187452 positive
+increase parking time 0.0004725649421855194 positive
+app takes 0.0004644687393285628 positive
+time easy 0.0004568256513375891 positive
+increase parking 0.0004437952110717457 positive
+works really well 0.0004414759562536552 positive
+enter code 0.00043792727053182677 positive
+get first 0.0004273114006894397 positive
+parking car 0.0004230419197885925 positive
+app easy use 0.00042252647004458556 positive
+easy straightforward 0.00041981783638126157 positive
+convenient app 0.0004137671165472507 positive
+enter parking 0.0004028269813588152 positive
+seems like 0.00039651644570878024 positive
+another parking 0.0003954981377675601 positive
+phone parking 0.0003938351336847745 positive
+actual parking time 0.0003930696102742032 positive
+e free parking 0.00037874066693452597 positive
+really convenient 0.0003746648241229111 positive
+app pay parking 0.00036969067420305075 positive
+code parking 0.0003544506352339242 positive
+one star 0.00033518165496078893 positive
+code e 0.0003293889176784929 positive
+easy use application 0.0003282740514601048 positive
+transaction fee 0.00030251065669736367 positive
+always works 0.0002904987391545206 positive
+awesome app 0.00028835577769507345 positive
+get euros 0.00027772111746741517 positive
+use good 0.00027509716554709434 positive
+another free 0.0002729497526894411 positive
+app ever 0.00025656858211061897 positive
+code free 0.0002462277086816296 positive
+parking euros 0.00024575454212151244 positive
+car app 0.00024470631837481883 positive
+use pay 0.00024222715649678122 positive
+convenient application 0.00023415876498236962 positive
+parkman app 0.00021884563987116466 positive
+makes life easier 0.00021771735766984153 positive
+get e 0.00021680196515774138 positive
+well easy 0.000215654524431471 positive
+code free parking 0.00021536069295658922 positive
+easy extend 0.000212792109282108 positive
+time code 0.00020989295264510922 positive
+parking much easier 0.00020683927967118785 positive
+parking money code 0.00017967472721698544 positive
+e parking 0.0001780650066090045 positive
+easy use good 0.0001498406477543827 positive
+clear easy 0.00014905977969874654 positive
+good code 0.00014580625440166977 positive
+app code 0.00012759033578722104 positive
+code q 0.00012570122730876538 positive
+saves time 0.00012558966702941565 positive
+coins car 0.00012515487941618176 positive
+parking time code 0.00011934647051740563 positive
+good easy use 0.00011519123937679497 positive
+discount code 0.00011220528106958429 positive
+parking e 0.00010309314919036316 positive
+super easy use 0.00010083467398730363 positive
+really easy use 9.849921170267478e-05 positive
+really good app 8.256331138513705e-05 positive
+euros free 8.036187051115185e-05 positive
+application easy 7.416799206437439e-05 positive
+really handy 7.285173956731816e-05 positive
+get e free 6.877872505818497e-05 positive
+get first parking 5.04766379646849e-05 positive
+good app code 3.800157216268414e-05 positive
+easy use easy 3.2894323525145564e-05 positive
+e parking money 2.879414573762338e-05 positive
+easy use works 2.5714011264198417e-05 positive
+application code 1.3961803587269486e-05 positive
+use works 1.3504482885888161e-05 positive
+receive free 1.1582355779034907e-05 positive
+code p 1.1308944301301798e-05 positive
+free parking euros 1.0897003077609396e-05 positive
+code k 1.0271793645568486e-05 positive
+get euros free 1.0234967351870503e-05 positive
+great app code 9.084804139154886e-06 positive
+code r 7.652378492871052e-06 positive
+well easy use 7.636086306218661e-06 positive
+app free parking 5.991636824807066e-06 positive
+great app easy 5.2871738625609605e-06 positive
+use promotional code 4.7723441150482555e-06 positive
+euros free parking 4.57208010564265e-06 positive
+use promotional 2.582690191433435e-06 positive
+code get free 2.285148662370423e-06 positive
+code c 1.7880749244133038e-06 positive
+receive free parking 1.7512999985269666e-06 positive
+
+The print result is saved as txt
+
+
+====================evaluate==================
+
+1¡¢metrics£º
+
+[[ 276  260]
+ [ 175 1245]]
+
+2¡¢precision recall f1-score£º
+
+              precision    recall  f1-score   support
+
+    negative       0.61      0.51      0.56       536
+    positive       0.83      0.88      0.85      1420
+
+    accuracy                           0.78      1956
+   macro avg       0.72      0.70      0.71      1956
+weighted avg       0.77      0.78      0.77      1956
+
+
+3¡¢oob_score£º
+
+0.7743915807936856
+
+====================n-gram evaluate==================
+
+
+The top  10 elements, their importance number and class
+
+easy use 0.03440736672651981 positive
+free parking 0.030889479998537864 positive
+e park 0.017395868242307863 negative
+error message 0.012449863555743668 negative
+parking time 0.0110746095771429 positive
+bad app 0.009497115351641192 negative
+works great 0.009342881736599466 positive
+parking money 0.009159192799978807 positive
+customer service 0.00897835556392685 negative
+great app 0.008913306617390778 positive
+
+The complete list of elements' importance number and class
+
+easy use 0.03440736672651981 positive
+free parking 0.030889479998537864 positive
+e park 0.017395868242307863 negative
+error message 0.012449863555743668 negative
+parking time 0.0110746095771429 positive
+bad app 0.009497115351641192 negative
+works great 0.009342881736599466 positive
+parking money 0.009159192799978807 positive
+customer service 0.00897835556392685 negative
+great app 0.008913306617390778 positive
+parking lot 0.008743571514166765 negative
+good app 0.008113309665247792 positive
+use app 0.007980298302919608 positive
+stop parking 0.007483421389296713 negative
+free parking time 0.007245701339480725 positive
+terrible app 0.007139684787327116 negative
+completely useless 0.007010566560466874 negative
+pay parking 0.006948866552966425 negative
+easy park 0.006807758455398382 positive
+works perfectly 0.006648457448380382 positive
+every time 0.006564934168571698 negative
+parking meter 0.006197531880488566 negative
+app useless 0.005911052020320024 negative
+connection error 0.005742776418767593 negative
+error code 0.0057051896465536225 negative
+credit card 0.0055743342940512705 positive
+free parking money 0.00542817965457518 positive
+paid parking 0.005414650269194522 positive
+phone number 0.005338590615788939 negative
+app unfortunately 0.005336595870710433 negative
+using app 0.005216759335231681 negative
+useless app 0.005115386970496108 negative
+parking app 0.005101825468673787 positive
+soon balance 0.004931623580025739 negative
+stopped working 0.004814045502145104 negative
+app works 0.004693903826168061 positive
+waste time 0.004654937299618726 negative
+wrong parking 0.004539439151938003 negative
+time longer 0.004535981358892649 negative
+would like 0.00453081878823759 positive
+even though 0.004519717685063227 positive
+parking fee 0.004479987241939151 positive
+internet connection 0.0044351490141702685 negative
+area code 0.004404164081316432 negative
+parking space 0.004346023147485411 positive
+long time 0.004321048401370816 negative
+several times 0.004147533412962738 positive
+works well 0.00413373861226762 positive
+vending machine 0.004124242230289831 negative
+much easier 0.004102518315131372 positive
+last update 0.004086476799572326 negative
+app work 0.004024816787835758 negative
+blue zone 0.003978616437863677 negative
+get free 0.003952409128424187 positive
+parking spaces 0.00393322893048138 positive
+car park 0.0038314154579019055 positive
+half hour 0.0038262625984236283 negative
+charge commission 0.0038009889638574673 negative
+use application 0.0037826362913118364 negative
+latest update 0.0036916746132997767 negative
+super easy 0.0036869136245042404 positive
+much better 0.0036868594455803138 positive
+installed app 0.003662964442570948 negative
+payment method 0.0036567128964536504 negative
+worst app 0.003644678075903211 negative
+parking without 0.0036144883266951517 negative
+previous one 0.003605156478436145 positive
+much worse 0.0036015087087670683 negative
+start parking 0.003549200924445991 positive
+longer works 0.003451035136458626 negative
+tariff group 0.003425029924241336 negative
+pay app 0.003396785548213868 negative
+get free parking 0.003394232724397251 positive
+best app 0.003370154205597625 positive
+really good 0.003341053677763992 positive
+super practical 0.0032489735325302526 positive
+put ticket 0.003221209734129888 negative
+pay fine 0.003190239249509587 positive
+much expensive 0.0031323437353080676 negative
+parking zone 0.003127875351979896 positive
+parking ticket 0.0031130893652182444 positive
+forced switch 0.00310584691827057 negative
+paying parking 0.0030729640217658036 negative
+good easy 0.0030257699562381197 positive
+sms park 0.0030094861200993086 positive
+parking lots 0.002989398427637932 positive
+never use 0.002978947677487901 negative
+user friendly 0.0029410629030010714 positive
+service fee 0.002939530870812443 negative
+end parking 0.0029386705081215357 negative
+pay extra 0.0029005783718719282 negative
+extend parking 0.0028271875020287086 positive
+pay time 0.0028242657191596588 negative
+first parking 0.0028124407818987335 positive
+parking process 0.0027950286651622198 positive
+first time 0.00278721453898134 positive
+want pay 0.0027848948766367593 negative
+find parking 0.0027840886020425045 positive
+set time 0.0027715120599786014 negative
+forced use 0.002763491175502207 positive
+easy fast 0.0027575493835074244 positive
+hour parking 0.0027074322159768615 negative
+used app 0.002693607478707532 positive
+app use 0.002689527317687261 positive
+new update 0.0026894950267184288 negative
+cost parking 0.002675890219504224 negative
+receipt email 0.0026568356282652373 positive
+go back 0.0026456892509884814 positive
+application works 0.002644275551806857 negative
+payment parking 0.0026408115277741055 positive
+parking fees 0.0026191410843681116 positive
+app used 0.002603396485883081 negative
+new version 0.002585178336676252 negative
+download app 0.002573674782562302 negative
+update app 0.0025640109765322316 positive
+easypark app 0.002549344943940669 negative
+vending machines 0.00254788176788177 negative
+use another 0.0025093640926894915 negative
+app great 0.002500224810486642 positive
+parking get 0.0024973315576211973 negative
+app want 0.00248281987508906 negative
+latest version 0.0024817189525957067 negative
+worked well 0.0024467892106961988 positive
+find another 0.0024378312593290605 negative
+really easy 0.0024333922087200104 positive
+park app 0.0024287809301385853 positive
+parking meters 0.002425547725487907 positive
+app even 0.0024207443893963297 negative
+apple pay 0.0024205036642286166 negative
+app good 0.002402151493822597 positive
+parking area 0.0023981443343162796 negative
+parking fine 0.0023800305465277605 positive
+parking started 0.0023744889332499787 negative
+new one 0.002343563395478275 positive
+error messages 0.0023246060307442027 negative
+charges commission 0.002272408133329959 negative
+got fine 0.002253239379074261 negative
+time use 0.0022280230272580066 negative
+get parking 0.0022185984173127404 positive
+urbis mobile 0.00221341172730083 negative
+parking zones 0.0022077228821874694 negative
+using easypark 0.0021926395314695816 negative
+per parking 0.002190648057710061 positive
+start stop 0.0021836122910789176 negative
+excellent app 0.0021834129598578616 positive
+app charges 0.0021827812970895925 negative
+every day 0.0021761427723969106 negative
+cell phone 0.002170155551021791 negative
+works fine 0.002166576795232905 positive
+app free 0.002153770530644983 negative
+park car 0.002149345136010784 negative
+app longer 0.002142814918352542 negative
+parking button 0.0021297681911776538 positive
+new parking 0.002129164877892629 negative
+parking costs 0.002110808334352663 negative
+use easypark 0.0020957184259429336 negative
+happy app 0.0020915454706731977 positive
+mobile number 0.002087948718666936 negative
+ongoing parking 0.002080929687727372 negative
+time parking 0.002074633030113811 negative
+super app 0.0020666145097509962 positive
+make sure 0.002061002804122162 positive
+time get 0.0020605893578291815 positive
+app easy 0.002050171105867186 positive
+open app 0.0020440725477327212 negative
+use parking 0.0020163642963649296 negative
+save money 0.002010568168704956 positive
+get receipt 0.002006806547107092 negative
+look parking 0.002002843953928814 positive
+parking fines 0.001999109867344906 positive
+app like 0.0019897823112517673 positive
+two cars 0.0019854016045286337 negative
+right away 0.0019795303390725168 positive
+app working 0.0019770112769446134 positive
+app still 0.0019719709676821627 positive
+city council 0.0019587079858297395 positive
+would great 0.0019569189467280733 positive
+still get 0.0019495362453869612 negative
+app worked 0.001946234845795608 negative
+mobile phone 0.0019338125641759805 negative
+time park 0.0019308537109306674 positive
+app several 0.0018977632412648107 negative
+another app 0.001897384842410934 positive
+network errors 0.0018792730149716872 negative
+like app 0.0018548138834651804 negative
+debit card 0.0018526176119450352 negative
+per month 0.0018468137901557105 negative
+take responsibility 0.0018467203164798415 negative
+extend time 0.001833856347032704 positive
+parking free 0.0018133300282874726 positive
+parking payment 0.0018130386253810702 negative
+text message 0.0018123419586877536 positive
+recommend app 0.0017918023298163607 positive
+come back 0.0017834446891951553 negative
+app app 0.0017666421123609657 positive
+user experience 0.0017601177517133746 positive
+parking easy 0.0017571687648914155 positive
+downloaded app 0.001753922118834174 negative
+money back 0.0017516318193885826 negative
+longer use 0.001737662425253748 negative
+time running 0.0017368146566764022 positive
+easy good 0.0016737158532340543 positive
+useful app 0.0016533344961826698 positive
+parking machine 0.0016449656256896194 positive
+get ticket 0.0016426323700443996 positive
+time wheel 0.0016178328716148554 positive
+app without 0.0016109370100538276 positive
+app makes 0.0016033555609887445 positive
+back car 0.0015910767269671808 positive
+think app 0.0015809378289528178 positive
+promotional code 0.0015791811393160084 positive
+way pay 0.0015764738819144775 positive
+previous app 0.0015718108906492049 positive
+cancel parking 0.001559005384697532 negative
+get fine 0.0015580290978389943 negative
+gps location 0.001557172942555669 negative
+parking tickets 0.0015541894796519003 negative
+easy app 0.0015452134649512916 positive
+app one 0.0015440664341876717 negative
+addition parking 0.0015385416939581481 positive
+via app 0.0015373849033558625 negative
+expensive use 0.0015233971788160905 positive
+user interface 0.001522176173072722 negative
+since last 0.0015214120338476536 negative
+really well 0.0015205521671674898 positive
+park easy 0.0015157052198268204 positive
+payment card 0.0015142299455224379 positive
+e mail 0.0015132885436184385 positive
+able use 0.0015055536661466944 negative
+last time 0.001500434789309995 positive
+app got 0.0014862820781759085 positive
+absolutely brilliant 0.0014780816178619712 positive
+app parking 0.0014694205553849266 positive
+love app 0.0014687957761094312 positive
+many times 0.0014527866460301297 negative
+finish parking 0.001444154901333155 positive
+two hours 0.0014324591614052352 positive
+parking even 0.0014302656173034863 positive
+even better 0.0014262789873120242 positive
+car parks 0.0014230864274120559 positive
+nothing works 0.0014148763898176853 positive
+work well 0.001405857458994577 positive
+parking also 0.0014029502080299076 positive
+active parking 0.00140129098092723 negative
+free charge 0.0013874776761759447 negative
+give stars 0.0013659094699857285 positive
+spinning wheel 0.0013611851793514482 negative
+time try 0.0013610712249757142 positive
+well done 0.0013532474846023803 positive
+turn wheel 0.0013522162289384646 negative
+makes parking 0.0013412903371916559 positive
+looks like 0.0013284654520682399 positive
+super good 0.001323210999907511 positive
+app pay 0.0013224591247298278 positive
+previous version 0.0013204384864515242 positive
+parking code 0.0013148913337604979 positive
+app would 0.0013139512367557138 positive
+parking companies 0.0013113970009851843 positive
+works like 0.0013078190708702053 positive
+new app 0.0013054772565733346 positive
+parking attendant 0.0013033795954543554 negative
+get rid 0.0013023662455651094 positive
+parking apps 0.001294163188565793 negative
+good application 0.0012910681669546984 positive
+app user 0.0012865030182111908 positive
+take care 0.0012810329604427614 negative
+life easier 0.0012788431848740917 positive
+used parking 0.00127606303464229 positive
+several years 0.001272875842605962 positive
+next day 0.0012590874598768825 negative
+otherwise good 0.0012536486457838903 positive
+best parking 0.001253402943223814 positive
+parking paid 0.0012512470232595597 negative
+get error 0.001248355963048594 negative
+makes life 0.0012435149036994122 positive
+use easy 0.0012306908927859855 positive
+way park 0.001207279454283866 positive
+card information 0.001205376047070747 negative
+worked fine 0.0012047268493417258 negative
+awesome app 0.0012045390858737186 positive
+registration number 0.0011995913674698675 negative
+absolutely great 0.001190324816001423 positive
+every time park 0.0011896873450583044 negative
+car parked 0.0011862904973803888 positive
+something went 0.0011814858440137891 negative
+fantastic app 0.0011756402473985148 positive
+amount parking 0.0011668028851154063 positive
+ticket machine 0.0011598695782853662 positive
+old one 0.0011581192528692563 positive
+great application 0.0011561319479161715 positive
+app made 0.0011465737040734234 negative
+want park 0.001140981531924338 positive
+parking garage 0.001136695239342859 positive
+great service 0.001131972777311928 positive
+easy convenient 0.0011285876126058741 positive
+easy parking 0.0011203963012316076 positive
+nice easy 0.0011193182397476983 positive
+excellent application 0.0011031368822040817 positive
+lot money 0.001089917097096452 negative
+something went wrong 0.0010869964239330805 negative
+card number 0.001060294462711113 positive
+transaction fee 0.0010592715339713412 negative
+lot time 0.0010425766308196454 positive
+parking pay 0.0010380004043219087 positive
+app really 0.0010363090241155245 positive
+app get 0.001032744146842593 positive
+time parked 0.0010307034774855119 positive
+highly recommended 0.0010272033124807006 positive
+end time 0.0010253812501675402 positive
+street parking 0.001024629879459799 negative
+would good 0.0010220761907802586 positive
+works really 0.001020460630369557 positive
+way pay parking 0.0010155022577540954 positive
+worked great 0.001008039177251617 positive
+parking much 0.0010043667964036711 positive
+area number 0.0010033465900702071 negative
+time used 0.0009999552496421885 positive
+electric car 0.0009985485452925246 positive
+otherwise great 0.000978559151042276 positive
+easy way 0.0009764317776000551 positive
+look parking meter 0.0009738200999588674 positive
+used easypark 0.0009704692677953559 positive
+app never 0.0009672800422752372 positive
+license plate 0.0009612210378400578 positive
+push notifications 0.0009586490856268584 positive
+app need 0.0009566493437600858 positive
+charge parking 0.0009449596572772824 positive
+apple watch 0.0009437086247624679 positive
+parking areas 0.0009363956590992538 positive
+went wrong 0.0009322375059116982 positive
+time spent 0.0009248172284665525 negative
+get money 0.0009140715788485715 negative
+easy clear 0.0009106748165040274 positive
+saves money 0.0009071912362056142 negative
+app saved 0.0008931513413877275 positive
+time app 0.0008849927358033312 positive
+parking use 0.0008835762603964899 positive
+payment machine 0.000880989200713872 negative
+started parking 0.0008650493722359714 positive
+coins parking 0.0008604111121899555 positive
+always worked 0.0008506245064374761 positive
+expensive parking 0.0008403702237036213 positive
+time without 0.0008338890445252683 positive
+contact customer 0.000818671994944881 positive
+camera parking 0.0008113148591295942 positive
+simple easy 0.0008081674259629991 positive
+app long 0.0008061811392803447 positive
+pay much 0.0008017249010706901 positive
+use code 0.0008012587764472732 positive
+another parking 0.0007974766196615178 positive
+works flawlessly 0.0007941263155574102 positive
+app also 0.0007937499716154482 positive
+add time 0.0007929023249079162 positive
+app first 0.0007868538264849252 negative
+nice able 0.0007827604064167019 positive
+old app 0.0007783391384330789 positive
+seems like 0.0007755196015319683 positive
+good service 0.0007695255888379043 positive
+highly recommend 0.000769373458919025 positive
+great easy 0.0007679975641989023 positive
+time money 0.0007621757561474154 positive
+good idea 0.0007620602451708106 positive
+got parking 0.000761644436898561 negative
+app uses 0.0007512282833616224 positive
+worked flawlessly 0.000751162164063452 positive
+time runs 0.0007467956279691664 negative
+time time 0.0007412493994468563 positive
+e free 0.000739349156518146 positive
+app open 0.0007259376965984931 positive
+everyday life 0.0007217755376157372 positive
+time pay 0.000713130165320488 positive
+best parking app 0.0007103675025790982 positive
+actual parking 0.0007042083883844843 positive
+quick easy 0.0007015974998567168 positive
+one star 0.0007006005813159566 positive
+enter code 0.0006763152053926192 positive
+super simple 0.0006715057703137123 positive
+app pay parking 0.0006584124463903852 negative
+phone parking 0.0006522028657729138 positive
+started using 0.0006476409915916404 positive
+mobile city 0.0006295287771074624 positive
+works easy 0.0006286042996524892 positive
+comfortable easy 0.0006219808984102603 positive
+carry coins 0.000615878309686156 positive
+use really 0.0006091253459563804 positive
+app super 0.0006084426886047571 positive
+extend parking time 0.0006074271198130328 positive
+parking period 0.0006057331723011368 positive
+first parking free 0.0005971224039896607 positive
+money parking 0.0005964498279183931 positive
+get car 0.0005906685887844279 positive
+app find 0.0005887694966004906 positive
+need look 0.0005877945065943122 positive
+handy app 0.0005766234420686443 positive
+app works well 0.000571309749964995 positive
+credit card number 0.0005710387540948862 negative
+easy use app 0.0005643623932831156 positive
+parking car 0.0005577288022101667 positive
+pay parking fee 0.0005547876631861433 positive
+app takes 0.0005475929576458284 positive
+easy straightforward 0.0005452085244148336 positive
+super happy 0.0005310397592064755 positive
+code get 0.0005294475774420837 positive
+credit cards 0.0005294060600792576 positive
+parking times 0.0005288796285885768 positive
+e free parking 0.0005156148918311668 positive
+old version 0.0005117065691366413 positive
+convenient app 0.0005088208564073463 positive
+card payment 0.0005061921249642056 positive
+always works 0.0004953439233998357 positive
+change parking 0.0004947846269787516 positive
+set parking 0.0004745497853631302 positive
+time need 0.0004671925203435606 positive
+e g 0.0004649105116165766 positive
+parkman app 0.00046303574484846664 positive
+parked car 0.0004422300566682838 positive
+would nice 0.0004223481987679063 positive
+get first 0.0004196272801684544 positive
+actual parking time 0.0004134061728712816 positive
+means payment 0.0004108488067700021 positive
+next parking 0.0004073332117941121 positive
+time expires 0.0004051594703840919 positive
+code free 0.0003945014541038636 positive
+works really well 0.00038605946869138996 positive
+well functioning 0.00038145765082035955 positive
+money code 0.0003803788953051164 positive
+without problems 0.000375877305042964 positive
+easy pay 0.00036587214737239147 positive
+enter parking 0.00033959836161976835 positive
+really convenient 0.0003294723718141225 positive
+discount code 0.00032646738508799864 positive
+e parking 0.00032422647011134156 positive
+good code 0.000320262081660702 positive
+free parking code 0.0003098584566441227 positive
+code parking 0.00030936852076005685 positive
+increase parking 0.00030543662922240635 positive
+increase parking time 0.0003036336720080897 positive
+app easy use 0.0002922866140669428 positive
+really handy 0.00028739455798186347 positive
+use pay 0.0002871442166570748 positive
+use good 0.00027595063567733923 positive
+code free parking 0.00027182903541495267 positive
+get e 0.0002698407264745529 positive
+parking time code 0.0002661751308298187 positive
+parking euros 0.00025791124823761654 positive
+application easy 0.00024238499419487755 positive
+code e 0.00023742909331661316 positive
+another free 0.00023732188389525858 positive
+get euros 0.00023707712922988854 positive
+super easy use 0.00022952051851932512 positive
+app ever 0.0002259593496483585 positive
+made easy 0.00021790481805606987 positive
+makes life easier 0.000208497011585232 positive
+time easy 0.00018393971966979337 positive
+coins car 0.000183764031166859 positive
+car app 0.00018220442633597818 positive
+time code 0.00017766023884791557 positive
+get e free 0.00017342158505526795 positive
+saves time 0.00015862631500866906 positive
+easy use good 0.00015769120704696934 positive
+made parking 0.00012865305601975692 positive
+app code 0.00012009618421390022 positive
+good thing 0.00011987717484286063 positive
+code q 0.00011307721730855863 positive
+well easy 0.00010590816512085112 positive
+parking e 0.0001019422664531987 positive
+parking money code 9.42945364721589e-05 positive
+euros free 8.501083946219092e-05 positive
+easy use application 7.162584421661637e-05 positive
+easy use easy 6.680974263925603e-05 positive
+really good app 6.460381750972362e-05 positive
+easy extend 6.226858822736212e-05 positive
+promo code 5.6722998955595615e-05 positive
+get first parking 5.610576127507902e-05 positive
+parking much easier 4.9237245597291605e-05 positive
+really easy use 4.716041473756159e-05 positive
+clear easy 4.5128904488606367e-05 positive
+code p 4.185165029916364e-05 positive
+use promotional 3.885831519029245e-05 positive
+e parking money 3.761320310841712e-05 positive
+convenient application 3.090767986475462e-05 positive
+use promotional code 3.0508935765971336e-05 positive
+euros free parking 2.8728630316946993e-05 positive
+good easy use 2.3353794934301942e-05 positive
+code r 1.4349610757385667e-05 positive
+get euros free 1.3727093979043398e-05 positive
+code k 1.2650027751062183e-05 positive
+good app code 1.1912922298294812e-05 positive
+free parking euros 9.137859342092925e-06 positive
+code get free 6.574581004293406e-06 positive
+great app code 6.128128771728258e-06 positive
+application code 5.447670100484826e-06 positive
+great app easy 5.360967062089398e-06 positive
+easy use works 3.052576392268894e-06 positive
+app free parking 2.2288574179068237e-06 positive
+use works 2.113886890139189e-06 positive
+well easy use 1.888784586275633e-06 positive
+code c 4.3642263607652653e-07 positive
+receive free 2.968176835652063e-07 positive
+receive free parking 1.739438639276992e-07 positive
+
+The print result is saved as txt
+
