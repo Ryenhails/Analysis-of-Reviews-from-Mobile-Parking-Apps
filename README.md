@@ -32,7 +32,6 @@ Try to learn more about TAM from this review paper [1]. We are interested in und
 
 7.6Calculate the Pearson correlation with a P value between different indicators and determine which are most strongly correlated. Highlight the correlations you find. Provide table to summarize your work. 
 
-8Identify relevant literature on parking behavior, TAMs, and other associated topics to support and discuss what you have found in previous sections.
 
 
 How To Run ? 
@@ -98,3 +97,19 @@ countries and the languages
 4.2 For running
 
 -Running is normal, just make sure there is a csv file named indicators that we extracted from questionnaires in the same directory as the python file 
+
+5 For plot task
+
+-pandas
+-matplotlib
+
+6 For Random forest
+
+-sklearn
+-nltk
+-numpy
+
+7 For indicator classify
+
+-pandas
+-nltk
