@@ -1,1 +1,5 @@
 <h1>Pearson Correlation</h1>
+
+<p>This script takes indicator CSV files from <b>./data/indicators/</b> directory as input and gives out the correlection score between indicators as a Heatmap</p>
+<p>The value used in the indicator's CSV file for the correlection is the 'compund' column</p>
+<p>In this script the average of the compound column was taken per month to have a uniform datafram length for each indicator</p>
